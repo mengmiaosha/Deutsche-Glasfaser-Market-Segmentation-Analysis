@@ -23,14 +23,14 @@ Analyze simulated customer data to:
 ## 📂 File Structure  
 ```bash
 ├── data/
-│   ├── simulated_customers_with_coverage.csv  # 主数据集
-│   └── Glasfaser.xlsx                         # 原始覆盖率数据
+│   ├── simulated_customers_with_coverage.csv    # 主数据集
+│   └── Glasfaser.xlsx                           # 原始覆盖率数据
 ├── scripts/
-│   ├── 1.data_generation.py                   # 数据生成脚本
-│   ├── 2.data_cleansing.py                    # 数据清洗
-│   ├── 3.EDA.py                               # 探索性分析
-│   └── 4.RFM_KMeans.py                        # 客户分群模型
-├── outputs/                                   # 生成的图表
+│   ├── 1.simulated_customers_with_coverage.py   # 数据生成脚本
+│   ├── 2.data_cleansing.py                      # 数据清洗
+│   ├── 3.EDA.py                                 # 探索性分析
+│   └── 4.RFM_KMeans.py                          # 客户分群模型
+├── outputs/                                     # 生成的图表
 │   ├── fiber_adoption_by_region.png          
 │   ├── customer_clusters.png                 
 │   └── top5_gap_regions.png                  
