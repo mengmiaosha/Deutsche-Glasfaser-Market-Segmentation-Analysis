@@ -1,0 +1,1001 @@
+customer_id,postal_code,region,age,occupation,is_remote_worker,internet_usage_gb,current_provider,monthly_spend_eur,has_fiber,coverage_rate
+35763,78677,Land Baden-Württemberg,56,Corporate Employee,0,22.8,Vodafone,26.0,False,22.59
+45693,23492,Land Nordrhein-Westfalen,28,Corporate Employee,0,11.4,O2,21.24,False,35.32
+83499,71842,Land Nordrhein-Westfalen,19,Corporate Employee,0,16.7,Telekom,78.43,False,35.32
+48841,55520,Freie und Hansestadt Hamburg,32,KMU Owner,1,12.7,Telekom,50.85,False,73.15
+81590,37443,Land Berlin,20,Corporate Employee,0,12.0,Deutsche Glasfaser,53.8,True,33.54
+70276,16908,Freistaat Bayern,26,Freelancer,1,51.8,Telekom,61.0,True,31.18
+67032,43768,Land Mecklenburg-Vorpommern,61,KMU Owner,1,26.9,Vodafone,52.8,True,45.63
+94921,25837,Land Rheinland-Pfalz,46,Retired,0,7.9,Deutsche Glasfaser,73.69,False,24.85
+34090,17031,Freie Hansestadt Bremen,31,Corporate Employee,0,25.7,Other,70.67,False,40.4
+67829,10358,Freie Hansestadt Bremen,62,Freelancer,1,5.5,Telekom,36.86,False,40.4
+81080,29351,Land Hessen,62,Freelancer,1,23.3,O2,24.44,False,27.54
+29921,93403,Land Nordrhein-Westfalen,56,Corporate Employee,0,28.0,O2,46.97,False,35.32
+25753,13185,Land Hessen,50,Freelancer,1,8.5,Vodafone,73.23,False,27.54
+54980,21007,Land Brandenburg,18,KMU Owner,1,8.0,O2,63.3,False,44.63
+35931,80517,Freistaat Bayern,31,KMU Owner,1,3.4,Telekom,21.89,True,31.18
+77461,66122,Land Sachsen-Anhalt,56,KMU Owner,1,26.9,Vodafone,28.36,False,39.68
+95529,05149,Freie und Hansestadt Hamburg,56,KMU Owner,1,10.2,Telekom,29.67,True,73.15
+54118,55058,Land Saarland,19,Corporate Employee,0,25.7,Telekom,47.39,False,16.38
+31017,44389,Land Niedersachsen,61,Freelancer,1,17.4,O2,39.08,False,59.53
+42788,52341,Freie und Hansestadt Hamburg,50,Freelancer,1,29.4,Telekom,41.15,True,73.15
+20148,22583,Land Berlin,20,Freelancer,1,3.3,Telekom,40.26,True,33.54
+3227,13900,Land Niedersachsen,32,Freelancer,1,20.2,Vodafone,44.23,True,59.53
+91093,55080,Land Brandenburg,66,Freelancer,1,26.9,Telekom,79.86,False,44.63
+89056,61597,Land Brandenburg,66,Retired,0,8.7,Telekom,40.7,True,44.63
+73478,87737,Freie und Hansestadt Hamburg,18,Freelancer,1,16.1,Telekom,60.33,False,73.15
+65453,28190,Freistaat Bayern,28,KMU Owner,1,8.2,O2,48.22,True,31.18
+13869,16587,Land Sachsen-Anhalt,51,Corporate Employee,0,9.7,Telekom,31.19,False,39.68
+41157,77087,Land Mecklenburg-Vorpommern,46,Corporate Employee,0,17.2,Telekom,62.67,True,45.63
+79022,79241,Land Nordrhein-Westfalen,36,KMU Owner,1,21.3,Vodafone,64.11,False,35.32
+3636,88702,Freie Hansestadt Bremen,67,Retired,0,3.7,Telekom,59.6,False,40.4
+22993,85067,Land Nordrhein-Westfalen,43,Retired,0,5.9,Other,53.5,False,35.32
+15911,04534,Land Niedersachsen,49,Corporate Employee,0,17.7,Telekom,63.56,True,59.53
+60510,24278,Freie Hansestadt Bremen,20,Corporate Employee,0,28.6,Deutsche Glasfaser,67.12,False,40.4
+66682,98127,Freistaat Sachsen,57,Corporate Employee,0,14.4,Telekom,59.81,True,29.09
+77335,29594,Freie und Hansestadt Hamburg,46,Freelancer,1,15.1,Other,30.56,True,73.15
+84928,03977,Land Sachsen-Anhalt,21,Freelancer,1,5.2,O2,58.98,True,39.68
+55926,38979,Freistaat Sachsen,24,Corporate Employee,0,21.1,Vodafone,35.03,False,29.09
+85699,21905,Land Berlin,47,Retired,0,5.3,O2,57.87,False,33.54
+18017,39158,Freie und Hansestadt Hamburg,51,KMU Owner,1,37.3,Telekom,49.95,False,73.15
+52323,26964,Land Mecklenburg-Vorpommern,21,Freelancer,1,33.2,Telekom,76.43,False,45.63
+70091,48846,Land Rheinland-Pfalz,46,Freelancer,1,20.0,Telekom,53.17,False,24.85
+61784,19294,Freistaat Thüringen,48,Retired,0,22.3,Telekom,43.11,False,15.77
+6963,91516,Land Mecklenburg-Vorpommern,40,Freelancer,1,4.1,O2,75.8,True,45.63
+95637,26653,Land Brandenburg,63,Freelancer,1,14.0,Other,28.41,False,44.63
+72209,82122,Freie und Hansestadt Hamburg,44,Freelancer,1,27.9,O2,53.17,True,73.15
+88713,19021,Land Mecklenburg-Vorpommern,59,Corporate Employee,0,12.6,O2,74.79,False,45.63
+83663,37049,Land Mecklenburg-Vorpommern,24,Corporate Employee,0,23.2,O2,73.4,False,45.63
+25608,41376,Land Niedersachsen,40,Freelancer,1,32.5,Vodafone,60.32,True,59.53
+56179,88746,Land Rheinland-Pfalz,68,KMU Owner,1,5.6,Telekom,22.24,False,24.85
+47119,78925,Land Brandenburg,23,KMU Owner,1,20.4,Telekom,69.67,False,44.63
+82493,32842,Freie und Hansestadt Hamburg,61,Retired,0,34.0,Vodafone,61.97,True,73.15
+39588,44158,Land Nordrhein-Westfalen,57,Corporate Employee,0,15.0,Vodafone,39.38,False,35.32
+19676,16069,Freie und Hansestadt Hamburg,34,KMU Owner,1,42.8,Telekom,24.85,True,73.15
+8879,79376,Freie und Hansestadt Hamburg,26,Corporate Employee,0,12.7,Deutsche Glasfaser,46.54,True,73.15
+17482,39119,Land Nordrhein-Westfalen,49,Corporate Employee,0,29.0,Other,64.27,True,35.32
+9934,12122,Land Rheinland-Pfalz,22,Corporate Employee,0,35.2,Telekom,41.36,False,24.85
+68682,19944,Freie und Hansestadt Hamburg,54,Freelancer,1,10.9,Telekom,78.77,True,73.15
+21706,79039,Land Niedersachsen,22,KMU Owner,1,14.0,Vodafone,48.41,True,59.53
+1874,80936,Land Saarland,50,KMU Owner,1,12.8,O2,35.65,False,16.38
+22668,17555,Freie Hansestadt Bremen,27,Corporate Employee,0,17.9,O2,59.52,False,40.4
+42331,22151,Land Nordrhein-Westfalen,21,Corporate Employee,0,20.2,Vodafone,54.4,False,35.32
+32495,76162,Land Hessen,50,KMU Owner,1,28.7,Deutsche Glasfaser,43.17,False,27.54
+88877,90950,Land Saarland,50,Corporate Employee,0,11.0,Telekom,22.34,False,16.38
+99909,16404,Land Brandenburg,67,Corporate Employee,0,9.8,Telekom,70.69,True,44.63
+48061,05424,Freistaat Bayern,43,KMU Owner,1,16.2,Telekom,76.2,False,31.18
+62238,72911,Land Saarland,53,KMU Owner,1,5.9,Vodafone,45.41,False,16.38
+99124,53320,Land Baden-Württemberg,41,Corporate Employee,0,16.2,O2,40.45,False,22.59
+66591,20733,Land Mecklenburg-Vorpommern,49,Corporate Employee,0,17.6,O2,65.27,True,45.63
+78582,80455,Land Brandenburg,58,KMU Owner,1,13.5,Telekom,26.0,True,44.63
+30675,03899,Freie Hansestadt Bremen,53,Freelancer,1,115.9,Telekom,39.16,False,40.4
+64594,55133,Freie und Hansestadt Hamburg,31,Corporate Employee,0,7.3,Telekom,56.15,True,73.15
+1910,69545,Freistaat Thüringen,69,Corporate Employee,0,2.2,O2,67.38,False,15.77
+38321,17713,Land Brandenburg,62,Retired,0,48.8,Vodafone,70.22,False,44.63
+68166,15303,Land Hessen,34,Freelancer,1,21.0,O2,24.37,True,27.54
+46938,84707,Land Berlin,67,Corporate Employee,0,16.9,Vodafone,71.79,True,33.54
+20526,61551,Land Sachsen-Anhalt,39,Corporate Employee,0,8.1,Other,65.2,False,39.68
+47977,48288,Freistaat Bayern,23,Corporate Employee,0,4.0,Telekom,39.82,False,31.18
+22852,11311,Land Niedersachsen,20,Freelancer,1,13.3,Vodafone,64.46,True,59.53
+3349,30830,Freie Hansestadt Bremen,25,Freelancer,1,35.3,Other,42.49,False,40.4
+14207,39752,Land Brandenburg,66,Freelancer,1,26.1,Vodafone,68.13,False,44.63
+13826,41769,Freie Hansestadt Bremen,62,Retired,0,18.8,Vodafone,78.16,True,40.4
+29638,03249,Freie und Hansestadt Hamburg,35,Freelancer,1,16.6,Telekom,79.75,True,73.15
+82666,26877,Land Sachsen-Anhalt,20,Retired,0,61.2,Telekom,47.82,True,39.68
+36218,16608,Freie und Hansestadt Hamburg,67,Freelancer,1,10.1,Telekom,47.19,True,73.15
+9376,85375,Freie Hansestadt Bremen,34,Freelancer,1,46.4,Telekom,24.57,True,40.4
+60271,71312,Land Niedersachsen,23,Retired,0,6.7,Vodafone,45.09,False,59.53
+48144,44854,Land Sachsen-Anhalt,47,Corporate Employee,0,33.4,Telekom,55.65,False,39.68
+79927,89754,Freie und Hansestadt Hamburg,42,Retired,0,12.4,O2,48.12,False,73.15
+39061,58625,Land Sachsen-Anhalt,52,Freelancer,1,20.2,Deutsche Glasfaser,55.11,False,39.68
+40348,28394,Freie Hansestadt Bremen,54,Corporate Employee,0,51.8,Telekom,32.3,True,40.4
+94364,06052,Freie Hansestadt Bremen,18,Retired,0,7.2,Vodafone,41.49,False,40.4
+99031,11298,Land Saarland,25,Freelancer,1,22.7,Vodafone,69.88,False,16.38
+50740,53341,Land Berlin,67,Corporate Employee,0,56.6,Vodafone,28.04,False,33.54
+53244,34496,Land Mecklenburg-Vorpommern,64,KMU Owner,1,47.1,Vodafone,68.3,False,45.63
+46216,54330,Land Mecklenburg-Vorpommern,56,Freelancer,1,5.8,Deutsche Glasfaser,40.9,True,45.63
+81486,84493,Land Niedersachsen,55,KMU Owner,1,39.1,Telekom,51.42,False,59.53
+48731,74730,Freie und Hansestadt Hamburg,34,Retired,0,5.9,Other,49.56,True,73.15
+95891,49436,Land Sachsen-Anhalt,30,Freelancer,1,15.9,Telekom,52.24,False,39.68
+74207,53969,Freie Hansestadt Bremen,40,Freelancer,1,8.5,O2,48.44,True,40.4
+14539,79357,Land Brandenburg,46,Retired,0,22.0,Telekom,69.31,False,44.63
+61311,78909,Land Saarland,35,Freelancer,1,15.4,Telekom,50.21,False,16.38
+63582,52956,Freistaat Thüringen,62,KMU Owner,1,8.8,Vodafone,61.27,True,15.77
+62083,69332,Land Niedersachsen,47,Freelancer,1,18.3,Deutsche Glasfaser,34.17,True,59.53
+12071,18487,Land Brandenburg,45,KMU Owner,1,16.8,O2,22.2,False,44.63
+92626,44321,Land Mecklenburg-Vorpommern,68,Corporate Employee,0,16.7,Telekom,46.84,False,45.63
+13694,29399,Land Saarland,52,KMU Owner,1,29.4,O2,30.94,True,16.38
+65816,99337,Freie und Hansestadt Hamburg,56,KMU Owner,1,11.2,O2,55.62,True,73.15
+31199,54759,Land Berlin,21,KMU Owner,1,8.6,Vodafone,55.05,False,33.54
+77296,20010,Land Hessen,39,Corporate Employee,0,12.6,Telekom,41.78,True,27.54
+30426,68636,Land Hessen,43,Corporate Employee,0,42.5,Vodafone,39.82,True,27.54
+58978,34877,Land Nordrhein-Westfalen,50,Freelancer,1,11.4,O2,25.27,False,35.32
+8676,61911,Land Mecklenburg-Vorpommern,47,Freelancer,1,7.7,Telekom,51.47,False,45.63
+21997,95394,Land Nordrhein-Westfalen,57,Corporate Employee,0,26.5,Other,49.44,True,35.32
+91896,28303,Freie und Hansestadt Hamburg,55,Corporate Employee,0,17.9,Vodafone,54.3,False,73.15
+12905,12473,Land Berlin,68,Corporate Employee,0,9.5,Vodafone,62.43,False,33.54
+97782,47565,Freie und Hansestadt Hamburg,31,Freelancer,1,24.1,Telekom,48.87,True,73.15
+47262,84031,Freie und Hansestadt Hamburg,60,Corporate Employee,0,10.5,Vodafone,32.1,True,73.15
+57499,10978,Freie Hansestadt Bremen,57,Corporate Employee,0,4.6,Vodafone,65.61,True,40.4
+63856,63776,Land Mecklenburg-Vorpommern,28,KMU Owner,1,35.6,O2,64.76,True,45.63
+94494,39962,Land Niedersachsen,67,Freelancer,1,21.7,Deutsche Glasfaser,30.87,False,59.53
+72011,85824,Freie und Hansestadt Hamburg,52,Retired,0,23.3,O2,69.51,False,73.15
+54440,03741,Land Berlin,54,Corporate Employee,0,22.2,Vodafone,41.53,False,33.54
+65298,21748,Land Mecklenburg-Vorpommern,62,Corporate Employee,0,12.2,O2,57.45,False,45.63
+3802,42924,Land Brandenburg,50,Corporate Employee,0,51.6,Telekom,73.97,False,44.63
+65039,17523,Land Hessen,19,Corporate Employee,0,18.9,Deutsche Glasfaser,57.66,True,27.54
+18868,35768,Land Nordrhein-Westfalen,25,Corporate Employee,0,26.1,O2,49.73,True,35.32
+32516,37727,Freie und Hansestadt Hamburg,47,Corporate Employee,0,12.3,Telekom,64.64,True,73.15
+5659,99156,Land Niedersachsen,21,Corporate Employee,0,21.0,O2,40.52,False,59.53
+43537,88904,Freie Hansestadt Bremen,55,Corporate Employee,0,10.3,Vodafone,52.39,False,40.4
+73682,09124,Land Nordrhein-Westfalen,46,Freelancer,1,4.4,O2,58.47,False,35.32
+75979,97597,Land Brandenburg,68,Corporate Employee,0,25.3,Other,40.55,False,44.63
+8112,27468,Freie Hansestadt Bremen,23,KMU Owner,1,42.1,Deutsche Glasfaser,29.2,False,40.4
+43281,58566,Land Hessen,30,Freelancer,1,14.0,Vodafone,26.13,False,27.54
+11724,70460,Land Hessen,65,Corporate Employee,0,12.6,O2,29.15,False,27.54
+99714,48555,Freistaat Bayern,45,KMU Owner,1,11.3,O2,39.93,True,31.18
+68934,63918,Land Nordrhein-Westfalen,68,Corporate Employee,0,12.2,Telekom,40.11,False,35.32
+1043,57839,Land Nordrhein-Westfalen,69,Corporate Employee,0,9.5,O2,75.38,False,35.32
+18991,74769,Land Hessen,24,KMU Owner,1,19.1,Vodafone,33.48,False,27.54
+44911,74225,Land Niedersachsen,61,Retired,0,21.8,Telekom,38.69,True,59.53
+39783,50852,Land Rheinland-Pfalz,46,Corporate Employee,0,6.6,Telekom,59.81,False,24.85
+7201,20189,Land Hessen,24,Retired,0,64.5,Vodafone,31.07,False,27.54
+67555,62262,Land Berlin,24,Corporate Employee,0,6.2,O2,32.59,True,33.54
+99733,56091,Land Brandenburg,36,KMU Owner,1,63.7,O2,55.25,True,44.63
+34517,30798,Land Sachsen-Anhalt,18,Corporate Employee,0,11.7,Vodafone,46.45,False,39.68
+14802,36910,Land Berlin,67,KMU Owner,1,13.3,Telekom,65.19,True,33.54
+76822,03954,Freie Hansestadt Bremen,27,Freelancer,1,19.0,Vodafone,21.52,False,40.4
+48840,53204,Freistaat Sachsen,45,Corporate Employee,0,14.1,Telekom,31.77,False,29.09
+11291,99112,Land Niedersachsen,25,Freelancer,1,30.4,Telekom,59.16,False,59.53
+37318,63481,Freistaat Bayern,64,Corporate Employee,0,34.8,Deutsche Glasfaser,28.46,False,31.18
+96796,60335,Freistaat Thüringen,31,Freelancer,1,21.2,Telekom,25.13,False,15.77
+4415,10925,Land Berlin,40,Corporate Employee,0,37.4,Vodafone,40.15,False,33.54
+11650,14042,Land Baden-Württemberg,19,KMU Owner,1,29.2,O2,40.71,True,22.59
+45482,47664,Land Mecklenburg-Vorpommern,47,KMU Owner,1,13.2,O2,26.85,False,45.63
+19372,17798,Land Saarland,47,KMU Owner,1,21.8,O2,45.51,False,16.38
+46626,77395,Freie und Hansestadt Hamburg,68,Corporate Employee,0,27.7,Telekom,58.7,True,73.15
+97151,93441,Land Niedersachsen,63,Retired,0,31.0,Telekom,36.34,True,59.53
+61562,06780,Land Niedersachsen,28,Corporate Employee,0,36.9,Telekom,44.31,True,59.53
+47710,94194,Land Mecklenburg-Vorpommern,55,Corporate Employee,0,17.7,Telekom,28.21,True,45.63
+6783,03062,Land Brandenburg,48,Corporate Employee,0,43.5,Telekom,74.86,False,44.63
+6835,94823,Freistaat Sachsen,43,KMU Owner,1,42.2,Vodafone,41.23,False,29.09
+81508,39338,Land Mecklenburg-Vorpommern,60,Freelancer,1,18.0,O2,46.23,True,45.63
+3687,12781,Land Hessen,53,Corporate Employee,0,14.4,Vodafone,48.56,False,27.54
+22301,19544,Land Sachsen-Anhalt,64,Retired,0,16.0,Vodafone,29.72,True,39.68
+49606,90638,Land Berlin,69,Freelancer,1,8.4,Vodafone,40.05,False,33.54
+15203,84158,Freie und Hansestadt Hamburg,43,KMU Owner,1,7.7,O2,55.9,True,73.15
+62632,02951,Freie und Hansestadt Hamburg,42,Freelancer,1,7.4,O2,61.68,False,73.15
+12762,16338,Land Niedersachsen,47,Freelancer,1,13.7,Other,67.4,False,59.53
+99885,26299,Land Hessen,66,Freelancer,1,11.1,O2,63.93,False,27.54
+37615,56286,Freistaat Sachsen,38,Corporate Employee,0,27.2,Deutsche Glasfaser,58.8,False,29.09
+4312,02972,Freie und Hansestadt Hamburg,43,Freelancer,1,37.4,Telekom,55.3,True,73.15
+98323,80152,Land Nordrhein-Westfalen,34,Freelancer,1,26.9,Vodafone,37.84,True,35.32
+93594,97255,Freistaat Thüringen,65,Freelancer,1,17.8,O2,64.7,False,15.77
+13239,24818,Freie und Hansestadt Hamburg,69,Corporate Employee,0,28.9,Vodafone,33.8,True,73.15
+61271,73369,Land Rheinland-Pfalz,62,Freelancer,1,12.1,Telekom,63.49,False,24.85
+52032,39558,Land Saarland,61,Corporate Employee,0,18.3,O2,51.21,False,16.38
+5957,61906,Land Sachsen-Anhalt,62,Corporate Employee,0,37.8,Telekom,72.21,True,39.68
+49353,97957,Land Niedersachsen,47,Freelancer,1,12.6,Telekom,20.57,False,59.53
+68209,28201,Land Nordrhein-Westfalen,46,Corporate Employee,0,8.1,Vodafone,57.65,False,35.32
+95905,46698,Freie und Hansestadt Hamburg,61,Retired,0,12.6,O2,34.33,True,73.15
+32058,57833,Freistaat Bayern,20,KMU Owner,1,39.3,O2,62.93,True,31.18
+45881,87193,Land Sachsen-Anhalt,54,Freelancer,1,5.2,Telekom,77.0,False,39.68
+30933,12846,Freie und Hansestadt Hamburg,54,Freelancer,1,8.0,O2,76.68,True,73.15
+21017,39632,Land Hessen,28,Retired,0,15.0,Telekom,69.84,False,27.54
+40400,48839,Land Berlin,63,Freelancer,1,11.1,Telekom,31.19,True,33.54
+56798,79887,Freistaat Bayern,20,Corporate Employee,0,22.4,Vodafone,55.84,True,31.18
+38537,97638,Land Sachsen-Anhalt,66,Freelancer,1,33.7,O2,61.76,True,39.68
+96118,18786,Land Sachsen-Anhalt,41,Corporate Employee,0,62.9,Telekom,73.7,False,39.68
+62527,54191,Land Niedersachsen,54,Freelancer,1,11.0,Telekom,27.77,False,59.53
+19435,28326,Freie und Hansestadt Hamburg,26,Freelancer,1,22.3,Telekom,35.16,False,73.15
+92842,09477,Land Mecklenburg-Vorpommern,55,Freelancer,1,14.6,Vodafone,24.86,False,45.63
+87567,18911,Land Rheinland-Pfalz,65,Corporate Employee,0,2.0,O2,40.87,False,24.85
+81543,71896,Land Brandenburg,51,Corporate Employee,0,9.8,O2,51.28,False,44.63
+23298,57431,Freie und Hansestadt Hamburg,33,Corporate Employee,0,26.9,Vodafone,57.12,True,73.15
+15103,14823,Land Saarland,55,Freelancer,1,22.3,Other,47.93,False,16.38
+55900,63049,Freie Hansestadt Bremen,48,Corporate Employee,0,13.2,Telekom,69.08,False,40.4
+5465,96084,Land Niedersachsen,31,Corporate Employee,0,10.0,Telekom,25.05,True,59.53
+46405,65485,Freie und Hansestadt Hamburg,44,Retired,0,7.3,Vodafone,66.79,True,73.15
+15151,40234,Land Mecklenburg-Vorpommern,23,Freelancer,1,25.7,Vodafone,70.41,True,45.63
+66959,00080,Land Brandenburg,45,Corporate Employee,0,18.3,Telekom,62.49,True,44.63
+98785,46717,Freie Hansestadt Bremen,39,Corporate Employee,0,21.0,Telekom,24.48,False,40.4
+84317,66518,Freie Hansestadt Bremen,35,Corporate Employee,0,11.8,Telekom,21.33,False,40.4
+98426,86645,Freie und Hansestadt Hamburg,23,KMU Owner,1,20.6,Telekom,20.06,False,73.15
+21872,71355,Land Baden-Württemberg,51,Freelancer,1,7.9,Vodafone,33.25,False,22.59
+18083,40734,Freistaat Bayern,19,Corporate Employee,0,14.8,Telekom,72.08,True,31.18
+46964,25659,Freie und Hansestadt Hamburg,61,Freelancer,1,21.3,Other,65.61,False,73.15
+77658,04539,Land Nordrhein-Westfalen,22,Retired,0,19.0,O2,33.8,False,35.32
+30740,44219,Land Nordrhein-Westfalen,52,Freelancer,1,7.8,Vodafone,78.09,False,35.32
+78164,48874,Land Sachsen-Anhalt,63,Freelancer,1,39.1,Telekom,47.22,True,39.68
+48692,19223,Land Mecklenburg-Vorpommern,67,Corporate Employee,0,9.3,Deutsche Glasfaser,57.0,True,45.63
+86389,23167,Land Sachsen-Anhalt,63,KMU Owner,1,20.0,Vodafone,56.44,True,39.68
+1615,07084,Land Berlin,37,KMU Owner,1,16.1,Vodafone,36.14,True,33.54
+84130,50308,Freistaat Thüringen,41,KMU Owner,1,7.0,Telekom,47.88,False,15.77
+18872,17755,Land Brandenburg,47,KMU Owner,1,72.5,Vodafone,71.61,True,44.63
+32885,39924,Land Baden-Württemberg,55,Retired,0,12.2,O2,28.76,False,22.59
+42793,57835,Land Nordrhein-Westfalen,29,Retired,0,16.4,O2,53.58,False,35.32
+11116,82957,Land Hessen,49,Retired,0,8.2,Vodafone,72.95,True,27.54
+22087,48926,Land Sachsen-Anhalt,47,Freelancer,1,14.8,Vodafone,61.37,True,39.68
+28568,83239,Freistaat Sachsen,67,Corporate Employee,0,10.6,Vodafone,77.09,True,29.09
+23457,05123,Freie und Hansestadt Hamburg,20,Corporate Employee,0,45.7,Telekom,76.11,True,73.15
+30140,41312,Land Niedersachsen,25,Corporate Employee,0,37.7,Telekom,68.89,False,59.53
+54,53699,Freie und Hansestadt Hamburg,24,Corporate Employee,0,60.0,Vodafone,22.45,False,73.15
+2346,62270,Land Mecklenburg-Vorpommern,59,KMU Owner,1,33.2,Vodafone,59.02,False,45.63
+17235,31462,Land Rheinland-Pfalz,42,Corporate Employee,0,8.9,Vodafone,49.89,False,24.85
+88179,26200,Land Hessen,35,Freelancer,1,12.0,Telekom,52.55,False,27.54
+44346,91551,Land Niedersachsen,20,Freelancer,1,7.2,Telekom,70.43,True,59.53
+36520,70669,Land Sachsen-Anhalt,66,Corporate Employee,0,12.4,O2,45.53,False,39.68
+80489,32341,Land Niedersachsen,21,Corporate Employee,0,16.7,Vodafone,55.28,True,59.53
+51932,24724,Land Saarland,51,KMU Owner,1,42.4,Deutsche Glasfaser,45.3,False,16.38
+26823,54039,Land Nordrhein-Westfalen,59,Retired,0,9.7,Vodafone,70.16,False,35.32
+66117,10335,Land Nordrhein-Westfalen,50,Freelancer,1,7.3,Deutsche Glasfaser,30.78,False,35.32
+75274,08744,Freistaat Sachsen,61,KMU Owner,1,3.4,Vodafone,25.84,True,29.09
+69888,06892,Land Nordrhein-Westfalen,64,Corporate Employee,0,20.6,Vodafone,25.72,False,35.32
+46051,42352,Land Niedersachsen,34,KMU Owner,1,7.6,Telekom,78.19,False,59.53
+12950,05147,Freie Hansestadt Bremen,64,Freelancer,1,33.0,Vodafone,39.85,False,40.4
+71851,66969,Land Sachsen-Anhalt,46,KMU Owner,1,14.1,Vodafone,62.41,True,39.68
+84445,81286,Land Brandenburg,37,KMU Owner,1,34.5,Telekom,52.01,False,44.63
+7090,67425,Land Sachsen-Anhalt,66,Corporate Employee,0,20.4,Telekom,26.72,False,39.68
+65566,82472,Freie und Hansestadt Hamburg,67,Retired,0,35.8,Telekom,23.1,True,73.15
+63376,44390,Land Berlin,18,Freelancer,1,25.5,Vodafone,22.49,True,33.54
+45442,58720,Land Nordrhein-Westfalen,59,KMU Owner,1,15.7,Vodafone,21.04,False,35.32
+27050,31004,Land Mecklenburg-Vorpommern,42,Corporate Employee,0,15.2,Vodafone,60.01,False,45.63
+48363,05530,Land Niedersachsen,37,Freelancer,1,31.5,Telekom,76.39,True,59.53
+84883,32239,Land Mecklenburg-Vorpommern,25,Retired,0,19.4,O2,30.63,True,45.63
+60669,41803,Freie und Hansestadt Hamburg,51,Corporate Employee,0,11.1,Telekom,21.05,False,73.15
+25176,81366,Freie und Hansestadt Hamburg,35,Corporate Employee,0,18.6,Deutsche Glasfaser,61.37,True,73.15
+82890,50385,Land Baden-Württemberg,50,Corporate Employee,0,30.9,O2,60.02,False,22.59
+16210,32915,Land Mecklenburg-Vorpommern,58,Freelancer,1,30.1,Vodafone,64.31,False,45.63
+75355,71308,Land Hessen,21,Corporate Employee,0,14.1,Deutsche Glasfaser,46.29,False,27.54
+50530,46000,Land Rheinland-Pfalz,51,Corporate Employee,0,13.8,Telekom,52.67,False,24.85
+23063,75406,Freistaat Bayern,42,KMU Owner,1,37.5,Vodafone,53.81,False,31.18
+91181,22166,Freie und Hansestadt Hamburg,36,KMU Owner,1,6.5,Telekom,24.39,True,73.15
+2563,72157,Land Niedersachsen,52,Freelancer,1,13.7,O2,50.03,False,59.53
+55106,20522,Freistaat Sachsen,38,Corporate Employee,0,3.7,Telekom,42.81,True,29.09
+11665,68564,Freistaat Bayern,51,Corporate Employee,0,65.0,Vodafone,43.66,True,31.18
+84252,66502,Land Sachsen-Anhalt,40,Corporate Employee,0,14.1,Telekom,76.07,False,39.68
+26765,65426,Freie Hansestadt Bremen,39,Freelancer,1,20.8,Vodafone,51.39,True,40.4
+28938,80877,Land Sachsen-Anhalt,63,KMU Owner,1,18.3,Vodafone,62.97,True,39.68
+41564,67972,Land Niedersachsen,66,Retired,0,37.9,Vodafone,27.39,False,59.53
+47735,40314,Freie und Hansestadt Hamburg,61,Freelancer,1,49.8,Vodafone,35.39,True,73.15
+84936,67188,Land Nordrhein-Westfalen,53,KMU Owner,1,18.8,O2,42.41,True,35.32
+33213,86403,Land Baden-Württemberg,62,Corporate Employee,0,17.7,O2,33.68,False,22.59
+27134,65726,Land Mecklenburg-Vorpommern,26,Corporate Employee,0,22.8,Telekom,74.35,True,45.63
+91761,37158,Land Hessen,41,KMU Owner,1,25.7,O2,45.42,True,27.54
+23341,50040,Freie und Hansestadt Hamburg,27,Corporate Employee,0,10.8,Telekom,45.44,False,73.15
+6224,27305,Freistaat Thüringen,22,Freelancer,1,24.1,Telekom,21.42,False,15.77
+65870,30433,Land Berlin,32,Freelancer,1,21.1,Vodafone,35.41,True,33.54
+59645,50687,Freistaat Sachsen,30,Corporate Employee,0,19.9,Vodafone,44.26,True,29.09
+9885,00045,Land Mecklenburg-Vorpommern,56,Corporate Employee,0,16.4,Telekom,69.12,True,45.63
+85492,92257,Land Brandenburg,21,Corporate Employee,0,6.2,Telekom,73.65,True,44.63
+34689,46819,Freie Hansestadt Bremen,20,KMU Owner,1,23.1,Telekom,57.03,True,40.4
+16533,54799,Freistaat Thüringen,30,Corporate Employee,0,18.9,Vodafone,51.98,False,15.77
+2278,63332,Land Niedersachsen,20,Freelancer,1,6.5,Telekom,41.78,True,59.53
+12451,92997,Freie und Hansestadt Hamburg,52,Corporate Employee,0,10.8,Other,30.52,True,73.15
+41471,36464,Freie und Hansestadt Hamburg,48,Corporate Employee,0,15.9,Vodafone,45.36,True,73.15
+42074,40891,Freie und Hansestadt Hamburg,33,Freelancer,1,4.0,Other,21.2,True,73.15
+55923,65658,Freie und Hansestadt Hamburg,37,Retired,0,12.2,O2,51.26,True,73.15
+19068,30436,Freie Hansestadt Bremen,23,Freelancer,1,21.2,Vodafone,29.56,False,40.4
+73891,74335,Freie und Hansestadt Hamburg,31,Freelancer,1,20.1,Telekom,42.85,True,73.15
+48609,20094,Land Sachsen-Anhalt,19,Retired,0,5.5,Vodafone,56.04,False,39.68
+60679,78247,Freistaat Thüringen,23,Retired,0,22.3,Other,71.09,False,15.77
+8175,55761,Freie und Hansestadt Hamburg,59,Corporate Employee,0,28.0,Vodafone,51.95,True,73.15
+94948,83604,Freistaat Sachsen,31,Corporate Employee,0,4.2,Telekom,24.86,False,29.09
+38407,59031,Land Berlin,38,Freelancer,1,12.7,Vodafone,75.96,False,33.54
+3409,48979,Freie und Hansestadt Hamburg,19,Freelancer,1,11.9,Deutsche Glasfaser,49.22,False,73.15
+9480,51627,Freie Hansestadt Bremen,63,Corporate Employee,0,12.1,O2,59.98,False,40.4
+14704,98321,Land Hessen,51,Freelancer,1,28.8,Telekom,77.79,True,27.54
+97404,65681,Land Hessen,29,Retired,0,5.6,Vodafone,26.34,False,27.54
+72857,29591,Freistaat Sachsen,23,Freelancer,1,11.2,Vodafone,41.89,True,29.09
+97057,71548,Land Mecklenburg-Vorpommern,48,Freelancer,1,14.5,Other,23.47,True,45.63
+69072,00958,Freistaat Bayern,32,Retired,0,40.2,Telekom,27.28,True,31.18
+63116,02947,Freie und Hansestadt Hamburg,63,Freelancer,1,13.0,Other,68.84,True,73.15
+6157,88096,Freie und Hansestadt Hamburg,56,Freelancer,1,18.2,Vodafone,70.88,True,73.15
+92505,17617,Land Berlin,67,Freelancer,1,15.2,Telekom,44.85,True,33.54
+10884,72246,Land Nordrhein-Westfalen,31,Freelancer,1,29.8,Other,34.91,False,35.32
+89296,00004,Freie Hansestadt Bremen,44,KMU Owner,1,20.7,Telekom,57.14,False,40.4
+3214,12695,Land Mecklenburg-Vorpommern,30,Freelancer,1,37.4,Other,68.09,True,45.63
+4895,31865,Land Nordrhein-Westfalen,62,Freelancer,1,7.2,Vodafone,35.96,False,35.32
+23679,98999,Freie und Hansestadt Hamburg,43,Freelancer,1,10.4,Telekom,59.1,False,73.15
+68227,41719,Land Nordrhein-Westfalen,52,KMU Owner,1,9.7,O2,77.32,False,35.32
+45745,20471,Land Mecklenburg-Vorpommern,34,Corporate Employee,0,4.2,O2,24.59,False,45.63
+50156,67755,Land Rheinland-Pfalz,50,Corporate Employee,0,60.0,O2,58.2,False,24.85
+63032,86844,Land Niedersachsen,32,Corporate Employee,0,11.4,O2,26.34,True,59.53
+12437,37541,Freistaat Bayern,61,Corporate Employee,0,14.3,O2,24.33,True,31.18
+1068,00250,Land Brandenburg,41,Freelancer,1,17.4,Vodafone,43.26,True,44.63
+52524,69868,Land Brandenburg,48,Freelancer,1,33.8,Telekom,30.45,False,44.63
+74521,29115,Land Nordrhein-Westfalen,22,Corporate Employee,0,11.1,Telekom,45.46,False,35.32
+23792,78412,Land Brandenburg,64,Freelancer,1,23.7,Telekom,27.28,True,44.63
+98872,07901,Land Hessen,21,Corporate Employee,0,36.1,Vodafone,22.52,False,27.54
+94407,76244,Land Sachsen-Anhalt,67,KMU Owner,1,15.7,Vodafone,75.22,True,39.68
+27047,37792,Land Mecklenburg-Vorpommern,33,Corporate Employee,0,8.7,Telekom,40.3,False,45.63
+85901,34266,Land Sachsen-Anhalt,57,Corporate Employee,0,14.3,Telekom,29.82,False,39.68
+42861,69697,Freistaat Sachsen,69,Freelancer,1,10.3,Telekom,73.22,True,29.09
+4728,46812,Land Berlin,38,Freelancer,1,19.7,Deutsche Glasfaser,35.13,False,33.54
+52806,11623,Freistaat Bayern,30,Freelancer,1,19.3,O2,53.47,False,31.18
+70676,83399,Freistaat Bayern,40,Corporate Employee,0,18.3,Deutsche Glasfaser,22.59,False,31.18
+79591,64922,Land Saarland,35,Freelancer,1,7.6,Telekom,77.91,False,16.38
+54737,05231,Land Berlin,32,Corporate Employee,0,22.1,Vodafone,50.5,False,33.54
+46253,73279,Freistaat Sachsen,36,Freelancer,1,25.4,Vodafone,72.63,True,29.09
+44371,55830,Land Brandenburg,54,Freelancer,1,14.2,O2,79.51,True,44.63
+68813,04174,Freie und Hansestadt Hamburg,57,Freelancer,1,16.3,Vodafone,38.66,False,73.15
+71952,45158,Freie und Hansestadt Hamburg,38,Corporate Employee,0,8.0,O2,53.25,True,73.15
+56705,16324,Land Sachsen-Anhalt,39,Corporate Employee,0,21.5,O2,20.66,False,39.68
+8381,78422,Freie und Hansestadt Hamburg,51,Corporate Employee,0,32.3,Vodafone,50.12,False,73.15
+93604,84823,Freie Hansestadt Bremen,21,KMU Owner,1,26.3,O2,33.03,False,40.4
+47892,09768,Freie und Hansestadt Hamburg,43,KMU Owner,1,45.1,Vodafone,41.33,True,73.15
+81342,64209,Freie Hansestadt Bremen,62,Freelancer,1,10.5,Vodafone,58.54,False,40.4
+96795,38458,Land Niedersachsen,41,Freelancer,1,25.5,Vodafone,55.96,True,59.53
+20829,34336,Land Sachsen-Anhalt,36,Freelancer,1,9.1,Vodafone,24.62,False,39.68
+47797,20268,Land Berlin,39,Corporate Employee,0,22.9,Telekom,27.34,False,33.54
+78793,28117,Land Sachsen-Anhalt,66,KMU Owner,1,12.2,Telekom,55.89,True,39.68
+13214,52836,Land Sachsen-Anhalt,64,Retired,0,18.4,Vodafone,67.14,False,39.68
+86636,93222,Land Brandenburg,44,Corporate Employee,0,23.2,O2,64.4,False,44.63
+38029,75430,Land Brandenburg,43,Corporate Employee,0,12.3,Telekom,21.45,True,44.63
+79214,26958,Land Mecklenburg-Vorpommern,62,Corporate Employee,0,8.4,O2,23.37,False,45.63
+9873,54916,Land Rheinland-Pfalz,52,KMU Owner,1,22.4,Vodafone,28.01,False,24.85
+4505,94990,Freie und Hansestadt Hamburg,21,Freelancer,1,11.9,Deutsche Glasfaser,66.81,False,73.15
+60376,19080,Land Rheinland-Pfalz,53,Corporate Employee,0,20.3,O2,59.42,True,24.85
+99588,55632,Land Niedersachsen,53,Freelancer,1,8.5,Telekom,22.18,True,59.53
+92339,95947,Land Saarland,24,Freelancer,1,14.4,O2,46.98,False,16.38
+3856,31645,Land Hessen,30,Freelancer,1,20.5,O2,22.79,True,27.54
+38690,50388,Freistaat Bayern,35,Retired,0,17.5,Telekom,73.99,False,31.18
+15770,30690,Freie Hansestadt Bremen,35,Corporate Employee,0,8.3,Telekom,72.93,False,40.4
+12053,48624,Land Nordrhein-Westfalen,38,Freelancer,1,6.4,Other,35.39,False,35.32
+66958,80133,Land Berlin,20,Corporate Employee,0,12.0,Telekom,38.52,True,33.54
+49070,51296,Land Brandenburg,38,Corporate Employee,0,10.1,Telekom,35.06,True,44.63
+83113,34227,Land Brandenburg,24,Corporate Employee,0,13.6,Other,33.64,False,44.63
+81297,71248,Freie und Hansestadt Hamburg,45,Corporate Employee,0,18.3,Telekom,47.5,True,73.15
+26667,58189,Land Brandenburg,18,KMU Owner,1,13.2,Vodafone,32.97,True,44.63
+94837,86000,Land Nordrhein-Westfalen,27,KMU Owner,1,47.6,Telekom,50.75,False,35.32
+9422,85605,Freie und Hansestadt Hamburg,27,Retired,0,8.8,Vodafone,40.39,False,73.15
+88563,32204,Land Niedersachsen,38,Freelancer,1,33.0,Telekom,72.67,True,59.53
+33199,91904,Land Berlin,39,Freelancer,1,10.4,Deutsche Glasfaser,53.61,True,33.54
+52017,27416,Freistaat Bayern,45,Corporate Employee,0,27.9,Vodafone,26.33,False,31.18
+19141,40704,Freistaat Bayern,69,KMU Owner,1,15.7,Telekom,46.46,False,31.18
+80695,22203,Freistaat Sachsen,28,Freelancer,1,5.5,Vodafone,58.07,False,29.09
+14130,22534,Freie Hansestadt Bremen,26,KMU Owner,1,18.5,Vodafone,29.48,False,40.4
+45340,34454,Freistaat Bayern,37,Corporate Employee,0,20.7,O2,30.13,False,31.18
+55715,83913,Land Berlin,55,Freelancer,1,8.4,Telekom,73.64,True,33.54
+50104,59400,Land Saarland,65,Freelancer,1,56.7,O2,68.22,True,16.38
+86658,63627,Land Mecklenburg-Vorpommern,63,KMU Owner,1,8.7,Vodafone,27.35,False,45.63
+64596,27079,Land Nordrhein-Westfalen,47,Corporate Employee,0,8.1,Vodafone,51.64,True,35.32
+13271,43370,Land Berlin,42,Corporate Employee,0,14.1,Telekom,78.41,True,33.54
+88044,18935,Land Berlin,45,Corporate Employee,0,18.2,Telekom,48.27,False,33.54
+24131,32039,Land Mecklenburg-Vorpommern,64,Corporate Employee,0,36.3,Telekom,69.16,True,45.63
+37966,89618,Land Niedersachsen,29,KMU Owner,1,22.8,Telekom,34.39,False,59.53
+7240,06794,Land Saarland,69,Retired,0,9.9,Telekom,56.83,False,16.38
+3576,63727,Freie und Hansestadt Hamburg,40,Corporate Employee,0,29.9,Other,58.05,True,73.15
+6959,90997,Freie und Hansestadt Hamburg,37,Corporate Employee,0,12.7,Telekom,20.23,True,73.15
+80846,82946,Freie Hansestadt Bremen,64,Freelancer,1,12.9,Telekom,58.57,False,40.4
+23595,28315,Freie und Hansestadt Hamburg,21,Corporate Employee,0,22.5,Telekom,24.11,True,73.15
+69356,95855,Freistaat Sachsen,63,Corporate Employee,0,14.6,Telekom,73.93,False,29.09
+63717,46522,Land Berlin,68,Retired,0,19.7,Vodafone,26.66,False,33.54
+47360,46450,Freistaat Sachsen,63,KMU Owner,1,17.9,Other,26.64,False,29.09
+73265,02670,Freistaat Thüringen,37,Freelancer,1,31.8,Telekom,77.97,False,15.77
+60815,72213,Land Baden-Württemberg,39,Corporate Employee,0,22.4,O2,21.08,False,22.59
+88770,95826,Land Sachsen-Anhalt,24,Corporate Employee,0,14.1,Vodafone,51.96,False,39.68
+54703,07088,Land Brandenburg,36,Corporate Employee,0,20.2,Telekom,34.51,False,44.63
+62298,77162,Freie und Hansestadt Hamburg,50,KMU Owner,1,11.2,Vodafone,37.83,True,73.15
+69704,81094,Freistaat Bayern,31,Corporate Employee,0,21.3,O2,31.12,False,31.18
+84182,92236,Land Nordrhein-Westfalen,33,Freelancer,1,28.2,Telekom,54.97,False,35.32
+83688,26961,Land Nordrhein-Westfalen,63,Corporate Employee,0,10.6,Vodafone,26.9,False,35.32
+56622,85906,Land Berlin,26,Retired,0,16.8,O2,72.74,False,33.54
+28894,42282,Land Nordrhein-Westfalen,18,Freelancer,1,12.1,Vodafone,28.25,False,35.32
+62107,91818,Land Brandenburg,36,Corporate Employee,0,19.0,Vodafone,57.88,True,44.63
+47209,71354,Land Niedersachsen,37,Corporate Employee,0,38.1,Telekom,67.21,True,59.53
+36052,62726,Freie und Hansestadt Hamburg,20,Corporate Employee,0,32.0,Vodafone,64.62,False,73.15
+85596,14212,Land Hessen,18,Freelancer,1,28.3,Telekom,56.24,True,27.54
+8293,99371,Land Brandenburg,44,Freelancer,1,14.5,Other,39.88,True,44.63
+53390,91060,Land Rheinland-Pfalz,66,Corporate Employee,0,3.6,Vodafone,52.22,False,24.85
+76133,07219,Freie und Hansestadt Hamburg,66,Freelancer,1,6.9,Telekom,26.48,True,73.15
+43045,28045,Land Berlin,43,KMU Owner,1,6.9,Telekom,36.67,False,33.54
+99682,53727,Land Berlin,41,Freelancer,1,13.6,Telekom,40.71,False,33.54
+63406,22992,Land Berlin,56,Corporate Employee,0,15.8,Telekom,43.39,False,33.54
+87167,22016,Freistaat Thüringen,36,KMU Owner,1,11.5,O2,56.47,False,15.77
+61604,98713,Freie und Hansestadt Hamburg,65,Freelancer,1,24.8,O2,69.78,True,73.15
+99009,62812,Freistaat Sachsen,66,Corporate Employee,0,21.2,Telekom,43.03,False,29.09
+2158,92713,Land Brandenburg,53,KMU Owner,1,14.5,Telekom,24.81,False,44.63
+72994,97733,Land Niedersachsen,32,Corporate Employee,0,9.1,Vodafone,58.79,True,59.53
+78717,91056,Freistaat Bayern,68,Corporate Employee,0,18.6,O2,27.23,False,31.18
+47698,05435,Land Sachsen-Anhalt,19,Corporate Employee,0,25.9,Other,69.2,False,39.68
+2292,97749,Land Hessen,58,KMU Owner,1,15.2,Telekom,27.38,False,27.54
+49797,90261,Land Hessen,66,Freelancer,1,5.3,O2,24.04,False,27.54
+86422,19097,Land Mecklenburg-Vorpommern,38,Corporate Employee,0,49.6,Telekom,67.34,True,45.63
+59913,11369,Freie und Hansestadt Hamburg,61,Corporate Employee,0,10.5,O2,75.0,False,73.15
+93227,10866,Freistaat Sachsen,40,KMU Owner,1,5.5,O2,61.3,False,29.09
+75947,26623,Land Berlin,56,Corporate Employee,0,33.2,Vodafone,22.69,True,33.54
+69364,05375,Land Sachsen-Anhalt,18,KMU Owner,1,36.1,Telekom,44.58,True,39.68
+25247,47170,Freie Hansestadt Bremen,66,Freelancer,1,38.0,Vodafone,70.5,False,40.4
+37417,87976,Freie und Hansestadt Hamburg,29,Corporate Employee,0,16.7,Telekom,32.53,True,73.15
+6364,35067,Freistaat Sachsen,60,KMU Owner,1,21.1,Telekom,65.37,True,29.09
+31713,46449,Freie Hansestadt Bremen,32,KMU Owner,1,16.9,Telekom,48.44,True,40.4
+15738,55502,Land Niedersachsen,23,Corporate Employee,0,16.0,Other,37.3,False,59.53
+75008,18240,Freie Hansestadt Bremen,64,Freelancer,1,79.8,Telekom,70.31,True,40.4
+95009,23161,Land Mecklenburg-Vorpommern,20,KMU Owner,1,5.6,Telekom,23.46,True,45.63
+59589,14346,Land Niedersachsen,63,Corporate Employee,0,24.1,Telekom,54.98,True,59.53
+44808,79104,Land Berlin,52,Freelancer,1,12.1,Telekom,66.94,False,33.54
+79996,48339,Land Mecklenburg-Vorpommern,52,Corporate Employee,0,31.8,Telekom,43.71,False,45.63
+66040,95629,Land Hessen,45,Corporate Employee,0,53.3,Deutsche Glasfaser,27.94,False,27.54
+87790,27414,Land Niedersachsen,44,Retired,0,19.3,Telekom,67.43,False,59.53
+15967,34670,Land Mecklenburg-Vorpommern,45,Freelancer,1,47.5,Vodafone,22.07,False,45.63
+86434,18772,Land Sachsen-Anhalt,23,Freelancer,1,20.6,O2,55.32,False,39.68
+61072,40537,Freie und Hansestadt Hamburg,53,Freelancer,1,16.2,O2,43.19,True,73.15
+38133,18753,Land Mecklenburg-Vorpommern,28,Retired,0,37.2,Vodafone,46.61,False,45.63
+88680,13951,Land Niedersachsen,64,Corporate Employee,0,10.0,Other,32.03,True,59.53
+90054,31860,Freistaat Sachsen,26,Freelancer,1,8.9,Telekom,21.85,False,29.09
+49071,07180,Freie und Hansestadt Hamburg,64,Corporate Employee,0,10.2,Telekom,48.61,False,73.15
+35788,88691,Freie Hansestadt Bremen,46,Freelancer,1,17.2,Vodafone,69.19,False,40.4
+94717,76402,Land Niedersachsen,58,Freelancer,1,31.4,Other,20.53,True,59.53
+5158,35154,Freistaat Sachsen,36,Freelancer,1,34.0,Telekom,76.23,True,29.09
+9309,65747,Land Niedersachsen,26,Corporate Employee,0,6.9,Vodafone,25.32,False,59.53
+80040,63953,Freistaat Sachsen,26,Corporate Employee,0,29.3,Telekom,52.95,True,29.09
+17301,79091,Land Niedersachsen,31,Corporate Employee,0,8.4,Telekom,77.31,False,59.53
+99080,52934,Land Berlin,55,Freelancer,1,16.5,O2,23.01,False,33.54
+31535,05515,Freie und Hansestadt Hamburg,19,Corporate Employee,0,10.1,Telekom,71.8,True,73.15
+16824,77578,Freie und Hansestadt Hamburg,20,Corporate Employee,0,15.0,Telekom,48.59,False,73.15
+64793,39803,Land Mecklenburg-Vorpommern,18,Corporate Employee,0,25.0,Telekom,32.88,True,45.63
+55557,45211,Land Rheinland-Pfalz,36,Corporate Employee,0,2.7,Vodafone,24.31,False,24.85
+33022,66041,Land Mecklenburg-Vorpommern,49,Corporate Employee,0,18.4,Telekom,38.19,False,45.63
+29973,57396,Land Berlin,32,Corporate Employee,0,8.2,Telekom,49.8,False,33.54
+79926,94460,Land Sachsen-Anhalt,31,Corporate Employee,0,17.1,O2,36.29,False,39.68
+76075,63958,Land Rheinland-Pfalz,66,KMU Owner,1,16.4,Telekom,62.42,True,24.85
+75707,68454,Land Hessen,40,Corporate Employee,0,16.4,Telekom,76.43,False,27.54
+25395,39474,Freistaat Thüringen,46,Retired,0,14.9,O2,54.31,False,15.77
+49301,24556,Freie und Hansestadt Hamburg,35,Corporate Employee,0,18.0,Deutsche Glasfaser,42.64,True,73.15
+59170,75914,Land Niedersachsen,29,Corporate Employee,0,25.6,Vodafone,28.35,False,59.53
+75975,43674,Land Niedersachsen,38,Corporate Employee,0,17.6,Other,65.66,False,59.53
+76663,28323,Freistaat Thüringen,34,Corporate Employee,0,63.1,Telekom,49.91,False,15.77
+68330,92386,Freie Hansestadt Bremen,56,Corporate Employee,0,12.9,Vodafone,32.53,False,40.4
+95088,98353,Land Berlin,31,Corporate Employee,0,18.8,O2,42.27,False,33.54
+5990,26194,Freie und Hansestadt Hamburg,55,KMU Owner,1,7.4,Telekom,60.67,False,73.15
+71511,89172,Land Sachsen-Anhalt,62,Freelancer,1,24.6,O2,78.48,True,39.68
+85964,32270,Freistaat Sachsen,61,KMU Owner,1,14.9,Telekom,73.41,False,29.09
+56145,04994,Freie Hansestadt Bremen,60,KMU Owner,1,5.8,Telekom,42.75,False,40.4
+85147,47550,Land Hessen,41,Corporate Employee,0,17.7,Deutsche Glasfaser,21.89,False,27.54
+93183,74334,Freie und Hansestadt Hamburg,20,KMU Owner,1,69.9,Vodafone,77.81,True,73.15
+78383,81775,Freistaat Sachsen,43,Corporate Employee,0,26.3,O2,66.38,False,29.09
+71038,93311,Freie und Hansestadt Hamburg,57,Freelancer,1,18.9,Telekom,42.06,True,73.15
+99879,67460,Freie und Hansestadt Hamburg,54,Freelancer,1,31.8,Telekom,66.39,True,73.15
+27395,80163,Land Mecklenburg-Vorpommern,24,KMU Owner,1,29.8,O2,21.42,False,45.63
+61204,49776,Land Baden-Württemberg,28,Corporate Employee,0,7.3,Telekom,32.43,False,22.59
+58510,96783,Freie Hansestadt Bremen,21,Corporate Employee,0,19.8,Vodafone,23.58,False,40.4
+19889,90203,Land Nordrhein-Westfalen,61,Freelancer,1,18.0,Deutsche Glasfaser,67.11,False,35.32
+47549,45350,Land Niedersachsen,49,Corporate Employee,0,27.2,Telekom,63.54,False,59.53
+94590,10971,Freistaat Sachsen,24,Freelancer,1,54.0,O2,54.7,False,29.09
+29678,54588,Freie Hansestadt Bremen,28,Retired,0,28.3,Vodafone,68.59,True,40.4
+4987,26886,Freistaat Sachsen,64,Retired,0,17.1,Vodafone,73.41,True,29.09
+27329,47508,Freie Hansestadt Bremen,58,Corporate Employee,0,21.5,Telekom,22.67,False,40.4
+9136,89820,Freistaat Sachsen,50,Retired,0,18.5,Telekom,50.04,False,29.09
+55831,42409,Land Sachsen-Anhalt,38,Retired,0,24.4,Vodafone,30.82,False,39.68
+55479,89944,Freistaat Bayern,48,Freelancer,1,18.4,Vodafone,32.55,True,31.18
+88970,72358,Land Baden-Württemberg,60,Corporate Employee,0,4.0,Telekom,58.19,False,22.59
+22907,81363,Land Hessen,65,KMU Owner,1,23.5,Vodafone,33.15,False,27.54
+55320,73531,Freistaat Thüringen,54,KMU Owner,1,10.7,Other,31.41,False,15.77
+84350,71203,Land Mecklenburg-Vorpommern,68,Corporate Employee,0,18.1,Vodafone,43.71,True,45.63
+84935,92595,Freie und Hansestadt Hamburg,33,Retired,0,11.2,O2,34.84,True,73.15
+1051,89354,Freie Hansestadt Bremen,18,KMU Owner,1,22.0,Other,65.81,False,40.4
+41912,60368,Freie und Hansestadt Hamburg,46,KMU Owner,1,23.8,Vodafone,33.32,True,73.15
+38919,77552,Freistaat Bayern,57,Corporate Employee,0,14.5,Telekom,45.72,False,31.18
+1711,68508,Land Mecklenburg-Vorpommern,46,KMU Owner,1,10.2,Telekom,75.17,True,45.63
+93759,94718,Land Sachsen-Anhalt,68,KMU Owner,1,20.2,Vodafone,58.13,False,39.68
+6025,56130,Freistaat Thüringen,37,Corporate Employee,0,5.4,Telekom,53.84,False,15.77
+73429,49578,Land Nordrhein-Westfalen,44,KMU Owner,1,30.1,Deutsche Glasfaser,72.64,False,35.32
+15375,01217,Land Rheinland-Pfalz,37,Freelancer,1,6.6,Telekom,30.51,True,24.85
+96051,48544,Land Berlin,51,Corporate Employee,0,16.8,Vodafone,63.15,True,33.54
+81580,80065,Freie Hansestadt Bremen,68,KMU Owner,1,28.7,Vodafone,74.23,True,40.4
+40023,77706,Land Brandenburg,43,Corporate Employee,0,12.4,O2,48.58,True,44.63
+78433,85520,Land Saarland,32,Corporate Employee,0,11.1,Vodafone,21.97,False,16.38
+82191,51048,Land Nordrhein-Westfalen,63,Freelancer,1,10.2,Deutsche Glasfaser,50.42,True,35.32
+38756,23384,Land Berlin,20,Freelancer,1,28.2,O2,50.94,False,33.54
+36856,68532,Freie und Hansestadt Hamburg,66,Corporate Employee,0,25.7,Vodafone,22.25,True,73.15
+48582,66286,Land Nordrhein-Westfalen,58,Freelancer,1,24.9,Other,33.57,True,35.32
+56263,00479,Freie Hansestadt Bremen,55,Freelancer,1,3.5,O2,23.11,False,40.4
+82523,65707,Freistaat Sachsen,21,Retired,0,24.7,O2,45.36,False,29.09
+12111,37045,Freistaat Sachsen,67,Corporate Employee,0,8.3,Telekom,36.29,False,29.09
+81415,41301,Land Baden-Württemberg,65,Retired,0,11.5,Vodafone,24.71,False,22.59
+74835,10750,Land Sachsen-Anhalt,48,Corporate Employee,0,38.6,Telekom,51.06,True,39.68
+56749,72387,Freie und Hansestadt Hamburg,34,Retired,0,6.3,O2,26.15,True,73.15
+69104,80362,Freie Hansestadt Bremen,18,Corporate Employee,0,26.5,Other,46.93,True,40.4
+14472,96207,Land Mecklenburg-Vorpommern,19,Corporate Employee,0,13.6,Vodafone,63.74,False,45.63
+52615,55142,Freistaat Sachsen,34,Freelancer,1,48.3,Telekom,32.8,True,29.09
+76215,88292,Freistaat Bayern,37,Retired,0,21.4,Vodafone,76.83,False,31.18
+94999,15693,Land Sachsen-Anhalt,18,KMU Owner,1,26.2,Vodafone,43.23,False,39.68
+67611,81857,Land Sachsen-Anhalt,21,KMU Owner,1,15.9,O2,69.03,True,39.68
+25818,37385,Freie Hansestadt Bremen,50,Retired,0,21.6,Vodafone,63.11,True,40.4
+95710,00675,Land Mecklenburg-Vorpommern,23,Freelancer,1,18.4,Vodafone,38.99,False,45.63
+63175,52879,Land Sachsen-Anhalt,39,Corporate Employee,0,18.9,Telekom,57.49,False,39.68
+60512,37993,Freie und Hansestadt Hamburg,20,Corporate Employee,0,16.7,Telekom,31.21,True,73.15
+21050,93438,Land Rheinland-Pfalz,29,Freelancer,1,17.5,Telekom,57.28,False,24.85
+79696,05790,Land Hessen,50,KMU Owner,1,19.3,Telekom,25.04,True,27.54
+91159,81274,Freie Hansestadt Bremen,58,Corporate Employee,0,29.0,Telekom,42.44,True,40.4
+3378,88126,Freistaat Bayern,21,Retired,0,25.0,O2,67.12,True,31.18
+20267,75437,Land Berlin,46,Freelancer,1,27.5,Telekom,45.92,True,33.54
+57401,08064,Freie und Hansestadt Hamburg,25,Freelancer,1,7.4,Telekom,44.22,False,73.15
+50775,72395,Land Mecklenburg-Vorpommern,22,Freelancer,1,17.2,Telekom,51.18,False,45.63
+57925,98919,Freistaat Bayern,24,Freelancer,1,15.6,Telekom,59.41,True,31.18
+68011,95556,Land Nordrhein-Westfalen,39,Freelancer,1,6.9,Telekom,75.53,False,35.32
+54262,61185,Land Niedersachsen,37,Freelancer,1,18.5,Vodafone,36.04,False,59.53
+76616,86598,Land Baden-Württemberg,51,Corporate Employee,0,10.1,Vodafone,47.04,False,22.59
+39667,22869,Land Niedersachsen,49,Corporate Employee,0,8.4,O2,76.8,False,59.53
+44670,38922,Land Saarland,43,KMU Owner,1,9.5,Telekom,76.34,False,16.38
+75560,97470,Land Baden-Württemberg,38,Freelancer,1,44.6,Vodafone,20.92,False,22.59
+78138,22174,Land Brandenburg,21,Retired,0,25.4,Deutsche Glasfaser,33.23,False,44.63
+49648,28722,Freie und Hansestadt Hamburg,26,Corporate Employee,0,23.1,Telekom,20.5,False,73.15
+15222,45548,Land Rheinland-Pfalz,67,Freelancer,1,8.9,Deutsche Glasfaser,46.04,False,24.85
+42926,62330,Land Nordrhein-Westfalen,32,Corporate Employee,0,3.0,Telekom,52.81,False,35.32
+83306,97314,Freie und Hansestadt Hamburg,58,Freelancer,1,23.3,Telekom,31.96,True,73.15
+89069,55519,Freistaat Bayern,40,Freelancer,1,9.2,Vodafone,55.69,True,31.18
+59180,53527,Land Sachsen-Anhalt,47,Retired,0,5.3,O2,69.38,False,39.68
+11211,99863,Land Sachsen-Anhalt,30,Corporate Employee,0,20.0,Other,37.49,True,39.68
+70381,14366,Freie und Hansestadt Hamburg,63,KMU Owner,1,3.7,Vodafone,52.3,False,73.15
+18697,67350,Land Niedersachsen,66,Corporate Employee,0,30.0,O2,49.97,False,59.53
+79033,77208,Land Baden-Württemberg,67,Corporate Employee,0,14.3,Telekom,69.48,False,22.59
+22228,44604,Freistaat Thüringen,39,Corporate Employee,0,7.6,Vodafone,48.17,False,15.77
+8404,89252,Land Brandenburg,41,Retired,0,21.2,O2,44.58,True,44.63
+70549,18295,Land Mecklenburg-Vorpommern,67,KMU Owner,1,40.2,O2,63.23,False,45.63
+23968,66173,Freie Hansestadt Bremen,64,Corporate Employee,0,17.3,Telekom,38.59,True,40.4
+69113,16888,Land Saarland,44,Corporate Employee,0,4.5,O2,67.36,False,16.38
+60770,99609,Land Saarland,63,Retired,0,22.6,Telekom,41.27,False,16.38
+93975,35041,Land Saarland,59,Freelancer,1,10.6,Telekom,69.73,False,16.38
+62764,06657,Land Hessen,56,Freelancer,1,8.5,Vodafone,70.27,False,27.54
+60617,51425,Land Sachsen-Anhalt,40,KMU Owner,1,14.5,Vodafone,44.67,True,39.68
+2985,51143,Land Mecklenburg-Vorpommern,49,Corporate Employee,0,16.1,Telekom,29.92,True,45.63
+5011,74576,Land Brandenburg,57,Corporate Employee,0,39.5,Vodafone,40.71,True,44.63
+73228,57595,Freie und Hansestadt Hamburg,60,Corporate Employee,0,18.1,Telekom,58.08,False,73.15
+33376,46680,Land Nordrhein-Westfalen,68,Freelancer,1,70.5,Telekom,43.46,True,35.32
+17779,54182,Freistaat Thüringen,36,KMU Owner,1,21.3,Vodafone,79.17,False,15.77
+93801,13820,Land Rheinland-Pfalz,26,KMU Owner,1,36.8,O2,30.3,False,24.85
+82020,31124,Freistaat Bayern,67,KMU Owner,1,4.1,Vodafone,21.33,False,31.18
+97015,47314,Freistaat Bayern,64,Freelancer,1,9.4,Telekom,61.52,False,31.18
+71744,02650,Freistaat Sachsen,24,Freelancer,1,19.2,Vodafone,66.38,False,29.09
+98107,59146,Land Saarland,56,KMU Owner,1,16.0,Vodafone,61.32,False,16.38
+29008,77100,Freie und Hansestadt Hamburg,33,Freelancer,1,10.4,Vodafone,70.17,True,73.15
+29774,44208,Land Baden-Württemberg,39,Corporate Employee,0,4.7,Vodafone,31.01,False,22.59
+85251,41523,Land Brandenburg,19,KMU Owner,1,14.7,Telekom,44.58,False,44.63
+33908,96520,Freie und Hansestadt Hamburg,57,Freelancer,1,9.6,Vodafone,30.9,True,73.15
+44248,32910,Freie und Hansestadt Hamburg,57,Retired,0,11.0,Vodafone,24.45,True,73.15
+40556,49874,Freistaat Sachsen,19,Corporate Employee,0,10.5,Vodafone,62.4,False,29.09
+47660,62109,Land Mecklenburg-Vorpommern,21,KMU Owner,1,15.5,Vodafone,62.53,False,45.63
+97163,56421,Land Niedersachsen,44,KMU Owner,1,19.9,Vodafone,25.72,True,59.53
+34639,16794,Land Baden-Württemberg,32,Freelancer,1,19.8,Vodafone,52.88,False,22.59
+23780,23591,Freie und Hansestadt Hamburg,65,Corporate Employee,0,17.3,Vodafone,57.23,True,73.15
+32311,63526,Land Baden-Württemberg,46,KMU Owner,1,38.3,Telekom,43.45,False,22.59
+57843,73242,Land Hessen,34,Freelancer,1,7.7,O2,52.5,False,27.54
+72765,28768,Land Brandenburg,59,KMU Owner,1,54.3,O2,43.17,True,44.63
+54390,44245,Freie und Hansestadt Hamburg,57,KMU Owner,1,10.4,Deutsche Glasfaser,50.42,True,73.15
+81400,16461,Land Nordrhein-Westfalen,32,Corporate Employee,0,10.9,Telekom,46.63,False,35.32
+68223,30224,Freie Hansestadt Bremen,40,Corporate Employee,0,11.1,Telekom,76.34,False,40.4
+84281,28890,Freie und Hansestadt Hamburg,47,Freelancer,1,27.5,O2,47.79,True,73.15
+17777,41825,Land Niedersachsen,63,Freelancer,1,6.6,O2,66.68,False,59.53
+26960,12722,Freie und Hansestadt Hamburg,40,Retired,0,23.8,O2,64.87,False,73.15
+96018,34184,Land Sachsen-Anhalt,50,KMU Owner,1,20.3,Vodafone,39.38,True,39.68
+59350,65624,Land Brandenburg,63,Corporate Employee,0,6.4,Deutsche Glasfaser,79.77,True,44.63
+27380,92159,Freie Hansestadt Bremen,55,Freelancer,1,25.7,Other,69.6,False,40.4
+55319,48637,Freistaat Sachsen,29,KMU Owner,1,23.4,O2,71.48,False,29.09
+52510,54640,Land Saarland,62,KMU Owner,1,5.7,Other,73.5,False,16.38
+2683,50444,Land Sachsen-Anhalt,38,Corporate Employee,0,24.1,Telekom,59.26,False,39.68
+80128,64066,Land Brandenburg,52,Freelancer,1,8.9,Vodafone,20.32,True,44.63
+96173,45888,Freie und Hansestadt Hamburg,20,Corporate Employee,0,32.1,Vodafone,54.86,False,73.15
+32274,56736,Land Brandenburg,46,Corporate Employee,0,47.5,Telekom,55.81,True,44.63
+47022,00235,Freie Hansestadt Bremen,41,KMU Owner,1,12.2,Vodafone,57.98,True,40.4
+16963,83459,Land Nordrhein-Westfalen,22,Retired,0,23.9,Telekom,47.29,False,35.32
+85305,54762,Land Niedersachsen,35,KMU Owner,1,28.0,Telekom,75.5,False,59.53
+46808,72231,Land Mecklenburg-Vorpommern,61,Corporate Employee,0,32.1,Telekom,29.37,False,45.63
+59028,55998,Land Rheinland-Pfalz,24,Corporate Employee,0,31.4,O2,47.31,True,24.85
+43212,97046,Freie und Hansestadt Hamburg,64,KMU Owner,1,14.8,Vodafone,74.61,True,73.15
+92773,35458,Land Saarland,45,KMU Owner,1,7.7,Telekom,54.36,False,16.38
+44516,73731,Land Niedersachsen,55,Corporate Employee,0,18.2,Vodafone,62.16,True,59.53
+83426,11572,Land Brandenburg,46,KMU Owner,1,13.7,Vodafone,72.86,True,44.63
+89433,56616,Land Nordrhein-Westfalen,33,Corporate Employee,0,16.9,Vodafone,42.53,False,35.32
+33305,00387,Freistaat Thüringen,40,Freelancer,1,76.5,Other,21.8,False,15.77
+83128,05321,Land Nordrhein-Westfalen,59,Corporate Employee,0,43.6,O2,27.68,False,35.32
+99780,47340,Land Sachsen-Anhalt,56,KMU Owner,1,38.3,Vodafone,73.51,True,39.68
+74036,41001,Land Berlin,46,Freelancer,1,11.0,Telekom,48.15,True,33.54
+96659,47740,Land Nordrhein-Westfalen,55,Retired,0,14.8,Vodafone,51.79,True,35.32
+71246,02540,Land Sachsen-Anhalt,54,Corporate Employee,0,15.8,O2,39.58,True,39.68
+11342,26760,Land Sachsen-Anhalt,25,Freelancer,1,21.9,O2,41.94,True,39.68
+42664,44564,Land Saarland,53,Corporate Employee,0,13.1,O2,29.3,False,16.38
+96563,71473,Freie und Hansestadt Hamburg,40,Freelancer,1,20.1,O2,57.03,False,73.15
+82254,66613,Land Saarland,22,KMU Owner,1,10.8,Telekom,30.45,False,16.38
+31385,18203,Land Nordrhein-Westfalen,40,Freelancer,1,30.1,Telekom,69.34,False,35.32
+64457,46316,Land Hessen,59,Freelancer,1,8.3,Vodafone,79.51,False,27.54
+99984,50269,Freie und Hansestadt Hamburg,34,Corporate Employee,0,12.1,Vodafone,70.41,True,73.15
+10264,04893,Land Brandenburg,34,Corporate Employee,0,3.6,Vodafone,61.22,False,44.63
+52060,52585,Freie und Hansestadt Hamburg,24,Freelancer,1,54.2,Telekom,61.91,False,73.15
+25952,12918,Land Brandenburg,42,Corporate Employee,0,16.9,Vodafone,72.18,False,44.63
+24732,30221,Land Nordrhein-Westfalen,21,Retired,0,36.8,O2,36.76,False,35.32
+30360,86877,Land Niedersachsen,55,Corporate Employee,0,18.9,Vodafone,74.19,True,59.53
+31418,53230,Land Hessen,49,Retired,0,14.4,Vodafone,28.58,False,27.54
+85041,81038,Land Hessen,31,Freelancer,1,34.6,Telekom,79.31,False,27.54
+64691,93549,Land Nordrhein-Westfalen,58,Freelancer,1,9.7,Vodafone,55.34,False,35.32
+13308,66266,Land Saarland,21,Freelancer,1,19.6,O2,29.12,False,16.38
+1468,45069,Freie und Hansestadt Hamburg,50,Corporate Employee,0,20.6,Telekom,34.23,True,73.15
+53604,67519,Land Sachsen-Anhalt,44,Freelancer,1,9.4,Deutsche Glasfaser,48.08,True,39.68
+45688,81651,Land Rheinland-Pfalz,66,Corporate Employee,0,11.0,Vodafone,65.63,False,24.85
+32146,25343,Land Hessen,34,Corporate Employee,0,14.8,Vodafone,60.46,False,27.54
+8669,81519,Land Mecklenburg-Vorpommern,47,Freelancer,1,23.7,Vodafone,56.91,True,45.63
+7177,12691,Land Niedersachsen,26,KMU Owner,1,12.7,Telekom,71.18,False,59.53
+40245,20500,Land Brandenburg,26,Corporate Employee,0,19.9,Telekom,46.94,True,44.63
+63374,41833,Land Berlin,26,KMU Owner,1,41.2,Telekom,75.34,False,33.54
+64863,19421,Land Nordrhein-Westfalen,29,KMU Owner,1,14.7,Telekom,65.05,False,35.32
+97413,49918,Land Sachsen-Anhalt,60,Corporate Employee,0,19.4,O2,75.64,False,39.68
+57424,14733,Freistaat Bayern,39,Freelancer,1,7.0,O2,51.48,True,31.18
+15165,71334,Freie Hansestadt Bremen,58,Freelancer,1,6.0,Telekom,22.49,True,40.4
+14864,50918,Land Hessen,56,Freelancer,1,11.1,Vodafone,39.05,False,27.54
+20932,78140,Land Saarland,19,Corporate Employee,0,18.1,Deutsche Glasfaser,40.39,False,16.38
+12388,88293,Freie und Hansestadt Hamburg,30,Freelancer,1,75.2,O2,57.36,True,73.15
+49566,70190,Land Niedersachsen,63,Corporate Employee,0,10.8,O2,25.34,True,59.53
+82752,15011,Freistaat Thüringen,65,Corporate Employee,0,12.6,Telekom,42.35,False,15.77
+17669,81674,Freie und Hansestadt Hamburg,21,Freelancer,1,12.2,Telekom,40.49,True,73.15
+35981,34743,Land Berlin,62,KMU Owner,1,11.2,Telekom,48.26,False,33.54
+80135,03440,Land Sachsen-Anhalt,59,Retired,0,7.5,Telekom,26.89,True,39.68
+50969,06580,Land Brandenburg,44,Freelancer,1,27.4,Telekom,59.81,True,44.63
+27620,85120,Land Rheinland-Pfalz,43,Corporate Employee,0,13.1,Telekom,37.93,False,24.85
+58758,12555,Land Rheinland-Pfalz,65,Freelancer,1,29.1,Telekom,40.53,True,24.85
+65986,04633,Land Niedersachsen,42,Corporate Employee,0,12.8,Telekom,60.93,True,59.53
+7904,26581,Freistaat Bayern,63,Corporate Employee,0,21.0,Telekom,26.99,False,31.18
+45524,18454,Land Baden-Württemberg,22,KMU Owner,1,16.9,O2,51.39,True,22.59
+87450,04007,Freistaat Bayern,20,KMU Owner,1,14.1,Deutsche Glasfaser,24.96,False,31.18
+77086,27322,Land Rheinland-Pfalz,28,Corporate Employee,0,18.3,Telekom,78.83,False,24.85
+79012,51233,Freistaat Bayern,46,Freelancer,1,9.5,O2,61.98,False,31.18
+38256,81902,Land Berlin,68,Corporate Employee,0,9.3,Vodafone,37.78,True,33.54
+34000,81379,Freistaat Thüringen,45,Retired,0,17.2,Other,45.87,False,15.77
+90874,03518,Land Mecklenburg-Vorpommern,64,Freelancer,1,6.7,Vodafone,28.27,False,45.63
+50085,35369,Land Sachsen-Anhalt,59,KMU Owner,1,17.7,O2,48.64,False,39.68
+44842,80840,Land Mecklenburg-Vorpommern,62,Corporate Employee,0,8.1,Telekom,74.77,False,45.63
+37568,69622,Land Mecklenburg-Vorpommern,52,Freelancer,1,18.5,O2,69.42,True,45.63
+86932,05620,Land Berlin,44,Corporate Employee,0,9.8,Vodafone,24.59,True,33.54
+47040,50156,Land Nordrhein-Westfalen,40,Corporate Employee,0,11.1,Vodafone,44.46,True,35.32
+49519,86619,Land Mecklenburg-Vorpommern,23,Corporate Employee,0,6.5,O2,33.44,False,45.63
+32406,99540,Land Baden-Württemberg,61,Freelancer,1,31.6,Deutsche Glasfaser,59.71,False,22.59
+9621,98279,Land Mecklenburg-Vorpommern,34,Corporate Employee,0,25.6,Telekom,39.18,False,45.63
+85626,11444,Freistaat Bayern,34,Corporate Employee,0,8.5,Vodafone,65.0,False,31.18
+23220,83353,Freie Hansestadt Bremen,23,Corporate Employee,0,11.8,Telekom,29.41,True,40.4
+43199,25324,Freie und Hansestadt Hamburg,45,Retired,0,18.6,Telekom,51.1,True,73.15
+85359,23201,Freie Hansestadt Bremen,19,Corporate Employee,0,16.6,Other,33.23,False,40.4
+35943,48671,Freie und Hansestadt Hamburg,25,Freelancer,1,6.4,Telekom,39.0,True,73.15
+77292,84469,Freistaat Bayern,33,KMU Owner,1,18.6,Vodafone,63.89,False,31.18
+68702,35659,Land Baden-Württemberg,60,Corporate Employee,0,43.8,Telekom,76.59,False,22.59
+88567,87095,Freistaat Sachsen,63,Freelancer,1,16.5,Telekom,52.85,False,29.09
+70077,33495,Land Mecklenburg-Vorpommern,26,KMU Owner,1,42.4,Telekom,22.36,False,45.63
+74470,67797,Land Mecklenburg-Vorpommern,20,Corporate Employee,0,30.0,Telekom,32.65,True,45.63
+11622,04095,Freie und Hansestadt Hamburg,49,Corporate Employee,0,31.5,Deutsche Glasfaser,44.01,False,73.15
+30343,80213,Freistaat Bayern,65,Corporate Employee,0,40.1,Telekom,47.58,False,31.18
+36600,90098,Land Niedersachsen,35,Freelancer,1,14.2,Telekom,57.37,False,59.53
+48925,85340,Land Sachsen-Anhalt,64,KMU Owner,1,27.4,Telekom,53.93,False,39.68
+74857,29369,Land Berlin,64,Corporate Employee,0,16.4,Telekom,43.59,False,33.54
+27921,36920,Freistaat Bayern,58,Freelancer,1,12.5,Telekom,69.81,True,31.18
+12186,74974,Freistaat Thüringen,39,Retired,0,9.3,Telekom,72.1,True,15.77
+36642,95476,Land Mecklenburg-Vorpommern,29,Freelancer,1,15.0,O2,76.81,False,45.63
+67155,80516,Land Rheinland-Pfalz,61,KMU Owner,1,16.2,Vodafone,41.85,True,24.85
+87155,71262,Land Berlin,21,Retired,0,5.8,Telekom,74.25,False,33.54
+90522,39075,Freie und Hansestadt Hamburg,64,Corporate Employee,0,20.2,Telekom,44.63,True,73.15
+33791,13500,Land Mecklenburg-Vorpommern,60,Corporate Employee,0,10.8,Deutsche Glasfaser,25.72,False,45.63
+15138,14908,Land Sachsen-Anhalt,45,Freelancer,1,10.7,Telekom,36.78,False,39.68
+86622,71442,Land Berlin,31,Corporate Employee,0,16.3,Telekom,43.67,False,33.54
+54141,23794,Freistaat Bayern,63,Corporate Employee,0,11.1,Telekom,37.78,True,31.18
+21127,92304,Land Nordrhein-Westfalen,69,Corporate Employee,0,10.0,Telekom,30.28,False,35.32
+92209,65500,Land Sachsen-Anhalt,53,Corporate Employee,0,35.3,O2,34.79,True,39.68
+47941,24066,Land Niedersachsen,46,KMU Owner,1,7.7,Telekom,58.89,True,59.53
+70703,81679,Land Niedersachsen,69,Corporate Employee,0,8.5,Vodafone,69.46,False,59.53
+30488,63931,Land Berlin,35,Freelancer,1,21.8,Telekom,79.39,True,33.54
+66762,66279,Land Sachsen-Anhalt,30,Retired,0,57.3,Other,78.64,True,39.68
+21415,29179,Freie und Hansestadt Hamburg,47,KMU Owner,1,16.9,Other,66.08,True,73.15
+36135,12894,Land Sachsen-Anhalt,69,KMU Owner,1,43.2,Vodafone,50.04,False,39.68
+92601,58372,Land Niedersachsen,33,Freelancer,1,18.4,Vodafone,66.77,False,59.53
+81418,58526,Freie und Hansestadt Hamburg,43,Corporate Employee,0,21.2,Vodafone,49.53,True,73.15
+71950,92575,Freistaat Sachsen,49,Freelancer,1,24.5,O2,26.17,True,29.09
+83686,06706,Land Sachsen-Anhalt,43,Freelancer,1,10.6,Other,28.1,True,39.68
+40158,37352,Land Sachsen-Anhalt,20,Corporate Employee,0,44.7,Vodafone,45.74,False,39.68
+26305,65833,Land Hessen,55,Freelancer,1,41.0,Vodafone,76.58,True,27.54
+52015,63792,Freistaat Sachsen,50,Corporate Employee,0,10.1,Telekom,56.36,True,29.09
+34593,23051,Land Niedersachsen,37,Corporate Employee,0,25.2,Other,31.01,True,59.53
+3854,15450,Freie und Hansestadt Hamburg,42,Retired,0,12.8,Telekom,35.52,True,73.15
+86056,37944,Land Niedersachsen,37,KMU Owner,1,4.9,Vodafone,63.46,False,59.53
+6681,54935,Freistaat Sachsen,44,Corporate Employee,0,12.8,Vodafone,29.95,False,29.09
+77607,27796,Freie und Hansestadt Hamburg,56,Corporate Employee,0,35.0,Telekom,56.05,True,73.15
+18640,61700,Land Mecklenburg-Vorpommern,31,Corporate Employee,0,27.9,Vodafone,38.47,False,45.63
+20243,03863,Land Mecklenburg-Vorpommern,62,Corporate Employee,0,25.1,Telekom,20.07,False,45.63
+95346,82592,Freie und Hansestadt Hamburg,33,Freelancer,1,33.5,Telekom,63.73,True,73.15
+81541,19572,Land Brandenburg,33,Retired,0,38.9,Telekom,27.58,False,44.63
+5607,80747,Land Niedersachsen,32,Freelancer,1,10.4,O2,66.79,True,59.53
+37695,94319,Freie und Hansestadt Hamburg,32,Corporate Employee,0,19.5,Telekom,53.26,True,73.15
+24911,16979,Land Brandenburg,63,Freelancer,1,33.2,Vodafone,50.87,False,44.63
+23120,94744,Freistaat Bayern,23,Corporate Employee,0,17.8,Vodafone,79.33,False,31.18
+79210,22714,Freie und Hansestadt Hamburg,44,Freelancer,1,13.9,Telekom,79.24,True,73.15
+26756,58216,Land Niedersachsen,41,KMU Owner,1,11.3,Telekom,73.48,True,59.53
+45763,20073,Freie und Hansestadt Hamburg,20,Corporate Employee,0,8.0,Vodafone,60.93,True,73.15
+60982,15299,Land Niedersachsen,46,Corporate Employee,0,8.6,O2,60.0,True,59.53
+55861,73519,Land Baden-Württemberg,61,Corporate Employee,0,30.6,Vodafone,63.81,False,22.59
+26117,86652,Freistaat Bayern,62,Corporate Employee,0,26.9,O2,38.45,False,31.18
+58299,76321,Land Sachsen-Anhalt,64,Corporate Employee,0,13.2,Other,26.48,True,39.68
+32362,71428,Land Brandenburg,43,Freelancer,1,21.1,O2,59.11,True,44.63
+10516,12617,Land Sachsen-Anhalt,65,Freelancer,1,33.4,Vodafone,69.2,True,39.68
+65063,87567,Freie Hansestadt Bremen,55,Corporate Employee,0,64.5,Telekom,55.92,True,40.4
+52782,04030,Land Sachsen-Anhalt,66,Corporate Employee,0,42.7,Vodafone,47.97,True,39.68
+60590,42071,Land Saarland,42,Corporate Employee,0,23.2,Telekom,76.49,False,16.38
+87656,88747,Land Mecklenburg-Vorpommern,54,Freelancer,1,13.1,O2,39.88,False,45.63
+28692,08497,Freistaat Thüringen,21,KMU Owner,1,15.0,Vodafone,44.74,False,15.77
+17195,64751,Land Brandenburg,58,Freelancer,1,18.7,Telekom,23.72,False,44.63
+48474,99110,Freistaat Sachsen,36,Freelancer,1,9.1,Telekom,49.96,True,29.09
+69277,70355,Freistaat Sachsen,20,KMU Owner,1,8.2,O2,44.89,True,29.09
+73604,06726,Land Mecklenburg-Vorpommern,59,Corporate Employee,0,6.0,Vodafone,43.82,False,45.63
+6684,14437,Land Berlin,40,KMU Owner,1,11.1,Telekom,35.75,True,33.54
+37175,17688,Land Niedersachsen,65,Corporate Employee,0,21.0,Telekom,27.61,True,59.53
+31263,96289,Land Rheinland-Pfalz,51,Freelancer,1,40.5,Telekom,41.82,True,24.85
+70552,05698,Land Sachsen-Anhalt,52,Freelancer,1,28.4,Telekom,51.8,True,39.68
+48233,82304,Land Niedersachsen,60,Corporate Employee,0,14.5,Telekom,29.09,True,59.53
+82675,95270,Land Nordrhein-Westfalen,48,Corporate Employee,0,26.6,Deutsche Glasfaser,65.31,True,35.32
+98334,98444,Freistaat Thüringen,56,Corporate Employee,0,11.3,Deutsche Glasfaser,41.59,False,15.77
+54854,79412,Land Mecklenburg-Vorpommern,43,Freelancer,1,9.0,Telekom,72.51,False,45.63
+96163,37400,Freie und Hansestadt Hamburg,40,KMU Owner,1,41.5,Vodafone,45.36,False,73.15
+32063,04087,Land Hessen,54,Freelancer,1,6.4,Telekom,67.16,False,27.54
+68324,07726,Freistaat Bayern,47,Freelancer,1,11.5,Vodafone,58.64,True,31.18
+98855,78645,Freie und Hansestadt Hamburg,61,Freelancer,1,27.3,Deutsche Glasfaser,42.99,True,73.15
+87025,88243,Land Berlin,54,Retired,0,12.7,Telekom,35.87,False,33.54
+79789,95487,Land Nordrhein-Westfalen,51,Corporate Employee,0,21.8,O2,57.89,False,35.32
+66963,15325,Land Berlin,42,KMU Owner,1,15.4,Telekom,48.7,False,33.54
+72991,24013,Land Niedersachsen,62,Corporate Employee,0,17.7,O2,37.0,False,59.53
+98681,40428,Freistaat Thüringen,27,Corporate Employee,0,38.9,Telekom,64.54,True,15.77
+30466,77424,Land Niedersachsen,46,KMU Owner,1,6.9,Telekom,50.7,True,59.53
+26617,80210,Land Brandenburg,36,Corporate Employee,0,10.0,Telekom,21.55,False,44.63
+96964,49598,Land Nordrhein-Westfalen,25,Corporate Employee,0,11.3,O2,53.47,False,35.32
+54766,73499,Land Sachsen-Anhalt,30,Freelancer,1,3.4,Vodafone,47.26,True,39.68
+39279,12666,Freie und Hansestadt Hamburg,66,Freelancer,1,37.0,Telekom,27.4,True,73.15
+93190,63612,Freie und Hansestadt Hamburg,65,Corporate Employee,0,31.9,Deutsche Glasfaser,25.47,True,73.15
+98538,97193,Land Sachsen-Anhalt,45,Freelancer,1,28.6,Vodafone,58.51,True,39.68
+60479,50544,Land Saarland,44,Corporate Employee,0,47.9,Telekom,79.31,False,16.38
+11873,39788,Land Niedersachsen,65,Retired,0,9.0,O2,38.92,False,59.53
+67035,16977,Land Hessen,47,KMU Owner,1,7.7,Telekom,39.92,False,27.54
+95733,84200,Land Mecklenburg-Vorpommern,29,Freelancer,1,22.3,Telekom,66.95,True,45.63
+70224,81966,Land Saarland,52,KMU Owner,1,17.6,Vodafone,57.84,False,16.38
+54549,30822,Land Niedersachsen,60,Retired,0,16.9,O2,40.05,True,59.53
+11817,63771,Freie Hansestadt Bremen,45,KMU Owner,1,33.8,O2,23.58,False,40.4
+49203,93818,Land Mecklenburg-Vorpommern,43,Corporate Employee,0,19.5,Vodafone,60.55,False,45.63
+88420,43395,Land Sachsen-Anhalt,40,Corporate Employee,0,18.2,Other,20.66,False,39.68
+67814,64231,Land Sachsen-Anhalt,39,Corporate Employee,0,11.8,Other,32.5,False,39.68
+69105,35070,Land Sachsen-Anhalt,40,KMU Owner,1,28.6,Deutsche Glasfaser,40.99,False,39.68
+94436,60726,Freie und Hansestadt Hamburg,32,Freelancer,1,31.0,Vodafone,54.22,True,73.15
+39562,59624,Land Brandenburg,35,Freelancer,1,11.9,Telekom,61.96,False,44.63
+27141,83341,Freistaat Sachsen,44,Corporate Employee,0,25.3,O2,64.1,False,29.09
+1443,89894,Land Baden-Württemberg,65,Freelancer,1,5.4,Telekom,61.64,False,22.59
+63730,63054,Land Niedersachsen,19,Freelancer,1,11.4,Vodafone,37.14,True,59.53
+87943,24369,Freistaat Thüringen,55,Freelancer,1,10.9,Vodafone,23.65,True,15.77
+45136,11718,Land Brandenburg,36,Corporate Employee,0,13.6,Vodafone,51.28,False,44.63
+30139,89240,Land Hessen,18,Freelancer,1,28.8,O2,45.78,False,27.54
+39749,80174,Land Brandenburg,33,Freelancer,1,18.4,Telekom,29.88,True,44.63
+49049,77868,Land Brandenburg,33,Freelancer,1,10.1,Vodafone,45.59,False,44.63
+9957,26962,Land Nordrhein-Westfalen,49,Corporate Employee,0,8.7,O2,66.36,True,35.32
+46848,86134,Freistaat Bayern,69,Corporate Employee,0,6.3,Telekom,37.61,False,31.18
+38674,86858,Freie und Hansestadt Hamburg,34,Freelancer,1,40.0,O2,47.51,True,73.15
+99205,76043,Land Rheinland-Pfalz,37,Corporate Employee,0,17.1,O2,32.5,True,24.85
+62706,60291,Land Sachsen-Anhalt,58,Corporate Employee,0,17.2,Telekom,73.84,True,39.68
+33335,96884,Land Hessen,28,Freelancer,1,56.3,O2,65.6,True,27.54
+61633,07138,Freie und Hansestadt Hamburg,19,Corporate Employee,0,16.5,Vodafone,68.23,False,73.15
+92011,21770,Freie und Hansestadt Hamburg,38,Retired,0,30.0,Vodafone,77.94,False,73.15
+33910,25731,Land Brandenburg,61,Freelancer,1,10.8,Other,45.69,True,44.63
+30137,06403,Freistaat Sachsen,45,Freelancer,1,5.0,Vodafone,64.71,False,29.09
+16183,03611,Land Nordrhein-Westfalen,36,KMU Owner,1,16.9,Vodafone,75.29,True,35.32
+49671,63636,Freie und Hansestadt Hamburg,41,Corporate Employee,0,11.3,Telekom,59.46,False,73.15
+34876,58699,Freie und Hansestadt Hamburg,53,KMU Owner,1,30.9,Telekom,49.17,True,73.15
+75759,15818,Land Nordrhein-Westfalen,57,Corporate Employee,0,18.3,Vodafone,75.57,False,35.32
+38195,11691,Freie und Hansestadt Hamburg,24,Corporate Employee,0,10.4,Telekom,61.42,False,73.15
+102,53890,Land Brandenburg,40,Corporate Employee,0,13.0,Telekom,34.61,False,44.63
+53879,63865,Land Baden-Württemberg,51,Freelancer,1,15.0,Telekom,46.72,True,22.59
+81649,29368,Land Mecklenburg-Vorpommern,65,KMU Owner,1,33.8,Deutsche Glasfaser,38.78,False,45.63
+55022,41237,Land Baden-Württemberg,24,Freelancer,1,26.2,O2,60.66,False,22.59
+60467,86942,Freie und Hansestadt Hamburg,21,Corporate Employee,0,7.1,Other,33.06,False,73.15
+91398,78207,Land Mecklenburg-Vorpommern,24,KMU Owner,1,30.1,O2,52.93,True,45.63
+62861,60980,Land Niedersachsen,67,KMU Owner,1,5.8,O2,78.87,True,59.53
+74307,94974,Freie und Hansestadt Hamburg,20,Corporate Employee,0,25.1,O2,60.26,True,73.15
+26505,35337,Land Mecklenburg-Vorpommern,48,Freelancer,1,10.3,Telekom,39.57,False,45.63
+37363,57140,Land Niedersachsen,32,Retired,0,12.8,Vodafone,36.23,False,59.53
+14183,68122,Land Mecklenburg-Vorpommern,20,Corporate Employee,0,17.0,Deutsche Glasfaser,33.29,False,45.63
+90766,75225,Land Baden-Württemberg,51,KMU Owner,1,20.3,Telekom,51.23,False,22.59
+82025,71011,Freistaat Sachsen,24,Corporate Employee,0,115.1,Other,35.0,True,29.09
+80199,54479,Land Mecklenburg-Vorpommern,34,KMU Owner,1,65.7,Vodafone,48.08,False,45.63
+29558,17859,Land Brandenburg,39,Freelancer,1,22.2,Vodafone,35.4,True,44.63
+8697,33520,Land Berlin,19,Retired,0,31.2,O2,38.69,False,33.54
+69243,13979,Freie und Hansestadt Hamburg,42,KMU Owner,1,14.3,Telekom,45.12,True,73.15
+88117,71151,Freie und Hansestadt Hamburg,19,Freelancer,1,23.9,O2,64.54,False,73.15
+97936,12339,Land Baden-Württemberg,46,Freelancer,1,18.0,Vodafone,27.15,False,22.59
+92195,62804,Land Niedersachsen,21,Freelancer,1,13.8,O2,62.66,True,59.53
+19308,87076,Land Hessen,59,Freelancer,1,34.9,Vodafone,60.54,False,27.54
+1400,08353,Freie Hansestadt Bremen,59,Corporate Employee,0,12.6,Vodafone,21.9,False,40.4
+2323,41802,Freistaat Bayern,51,KMU Owner,1,16.3,O2,34.92,False,31.18
+60368,22147,Freistaat Bayern,18,Corporate Employee,0,19.6,O2,36.02,False,31.18
+12024,53003,Land Hessen,43,KMU Owner,1,24.5,O2,20.04,False,27.54
+99511,71329,Land Brandenburg,18,Retired,0,11.8,Vodafone,31.1,True,44.63
+68648,75955,Land Mecklenburg-Vorpommern,39,Corporate Employee,0,11.1,O2,74.32,True,45.63
+46515,18916,Freistaat Sachsen,46,Corporate Employee,0,6.1,O2,40.36,False,29.09
+6564,63646,Land Mecklenburg-Vorpommern,35,Freelancer,1,8.8,O2,27.35,True,45.63
+78757,91274,Land Brandenburg,36,KMU Owner,1,8.1,O2,22.56,True,44.63
+92609,82051,Land Nordrhein-Westfalen,38,Corporate Employee,0,23.4,O2,20.79,True,35.32
+42388,56166,Freistaat Thüringen,33,Freelancer,1,12.8,Vodafone,20.86,False,15.77
+80650,38424,Freistaat Sachsen,40,Retired,0,17.3,Other,65.27,False,29.09
+63432,75507,Land Hessen,33,Freelancer,1,73.2,Telekom,38.62,False,27.54
+85762,03605,Land Sachsen-Anhalt,54,Corporate Employee,0,9.0,Telekom,44.09,False,39.68
+69475,99460,Freie Hansestadt Bremen,36,KMU Owner,1,47.3,Telekom,36.44,False,40.4
+2544,47322,Freistaat Thüringen,24,Freelancer,1,26.5,O2,50.22,True,15.77
+51160,34073,Land Berlin,50,Corporate Employee,0,21.6,Vodafone,48.69,False,33.54
+69422,31152,Land Saarland,52,Corporate Employee,0,13.1,Deutsche Glasfaser,73.25,False,16.38
+47792,56126,Land Niedersachsen,49,Corporate Employee,0,13.5,O2,53.71,False,59.53
+40156,08304,Land Hessen,69,Corporate Employee,0,9.2,O2,42.93,False,27.54
+99761,71732,Freistaat Bayern,34,KMU Owner,1,13.0,Vodafone,53.86,False,31.18
+64542,83591,Freistaat Sachsen,29,Corporate Employee,0,9.1,Telekom,48.14,False,29.09
+2196,67006,Land Brandenburg,67,KMU Owner,1,38.2,Vodafone,44.79,True,44.63
+49152,10771,Land Mecklenburg-Vorpommern,42,Corporate Employee,0,13.2,Telekom,43.21,False,45.63
+80625,16225,Freie Hansestadt Bremen,62,Corporate Employee,0,15.0,Vodafone,33.9,True,40.4
+51351,15479,Land Berlin,19,KMU Owner,1,25.3,Telekom,54.22,False,33.54
+37402,21339,Freistaat Sachsen,47,Freelancer,1,11.6,Vodafone,73.07,False,29.09
+83459,75014,Land Mecklenburg-Vorpommern,41,Freelancer,1,20.5,Vodafone,32.08,True,45.63
+16407,95876,Land Niedersachsen,31,Corporate Employee,0,23.7,Other,64.28,True,59.53
+13722,56591,Land Niedersachsen,64,Corporate Employee,0,6.6,Deutsche Glasfaser,45.43,False,59.53
+80437,72084,Land Sachsen-Anhalt,43,Freelancer,1,14.6,O2,31.42,False,39.68
+71608,09785,Land Brandenburg,50,Retired,0,40.8,Telekom,46.02,False,44.63
+76662,76696,Freie und Hansestadt Hamburg,43,KMU Owner,1,20.9,Deutsche Glasfaser,57.39,False,73.15
+2817,92502,Freie Hansestadt Bremen,63,Corporate Employee,0,13.2,Telekom,55.01,True,40.4
+76767,48054,Freistaat Thüringen,56,KMU Owner,1,16.0,Telekom,64.96,False,15.77
+70469,53376,Freistaat Bayern,60,Freelancer,1,12.9,Telekom,26.37,True,31.18
+36359,57559,Freie und Hansestadt Hamburg,21,Corporate Employee,0,74.8,Vodafone,48.51,False,73.15
+60146,05628,Land Brandenburg,29,Retired,0,64.0,Vodafone,50.66,False,44.63
+2638,34054,Land Brandenburg,65,Freelancer,1,24.8,Other,34.54,True,44.63
+96210,99298,Freie und Hansestadt Hamburg,40,KMU Owner,1,21.1,Deutsche Glasfaser,49.54,False,73.15
+22830,43088,Freistaat Bayern,57,Corporate Employee,0,11.2,Vodafone,40.5,False,31.18
+23378,81633,Land Rheinland-Pfalz,63,Freelancer,1,30.1,Telekom,48.41,False,24.85
+77756,61367,Land Nordrhein-Westfalen,65,Corporate Employee,0,11.8,O2,25.06,True,35.32
+93054,05790,Freistaat Thüringen,24,Corporate Employee,0,13.9,O2,52.12,False,15.77
+76702,99680,Freistaat Bayern,32,Freelancer,1,7.6,Vodafone,64.88,True,31.18
+42579,23656,Land Niedersachsen,28,Corporate Employee,0,17.8,Telekom,61.77,True,59.53
+7200,32834,Land Niedersachsen,55,Corporate Employee,0,19.0,Telekom,63.57,True,59.53
+40471,66238,Land Sachsen-Anhalt,34,Corporate Employee,0,15.7,Telekom,62.45,True,39.68
+46744,06353,Freie Hansestadt Bremen,38,Corporate Employee,0,37.4,O2,75.36,False,40.4
+33281,03108,Land Brandenburg,34,Corporate Employee,0,11.8,Telekom,34.93,False,44.63
+34028,34978,Land Rheinland-Pfalz,19,Corporate Employee,0,9.0,Vodafone,31.85,False,24.85
+45672,39098,Land Brandenburg,37,Freelancer,1,11.8,O2,65.0,False,44.63
+60194,81066,Land Mecklenburg-Vorpommern,39,Corporate Employee,0,36.5,Deutsche Glasfaser,75.36,True,45.63
+28023,24253,Land Mecklenburg-Vorpommern,24,Freelancer,1,26.0,Telekom,71.13,False,45.63
+22686,33251,Land Niedersachsen,23,Corporate Employee,0,22.3,Vodafone,25.12,False,59.53
+48102,58245,Land Berlin,25,KMU Owner,1,11.7,Vodafone,66.98,False,33.54
+12669,45787,Freie und Hansestadt Hamburg,45,Freelancer,1,10.0,Telekom,31.7,False,73.15
+8003,99917,Land Niedersachsen,63,Corporate Employee,0,18.2,O2,44.14,True,59.53
+30305,77865,Land Nordrhein-Westfalen,57,Corporate Employee,0,16.0,Telekom,46.27,True,35.32
+26779,45916,Freistaat Thüringen,38,Freelancer,1,14.4,O2,40.77,False,15.77
+58516,59240,Land Mecklenburg-Vorpommern,35,KMU Owner,1,9.9,Telekom,42.01,True,45.63
+28643,34010,Land Sachsen-Anhalt,27,KMU Owner,1,25.1,Vodafone,70.89,True,39.68
+67886,26259,Land Hessen,35,KMU Owner,1,85.6,O2,36.92,False,27.54
+86716,82034,Land Niedersachsen,18,Freelancer,1,9.3,Vodafone,29.88,True,59.53
+30529,72034,Land Brandenburg,30,KMU Owner,1,14.6,Vodafone,26.14,True,44.63
+55535,53618,Land Brandenburg,29,Retired,0,18.8,Vodafone,20.63,False,44.63
+65545,11179,Land Sachsen-Anhalt,24,Retired,0,44.8,Telekom,54.9,False,39.68
+22999,78360,Freie und Hansestadt Hamburg,26,KMU Owner,1,20.0,Vodafone,27.88,False,73.15
+35488,26752,Land Mecklenburg-Vorpommern,67,Corporate Employee,0,27.2,Vodafone,44.14,False,45.63
+18438,15810,Freie und Hansestadt Hamburg,52,KMU Owner,1,23.2,Telekom,57.0,True,73.15
+28091,32939,Land Berlin,54,Retired,0,10.8,Telekom,46.57,False,33.54
+36525,39348,Land Rheinland-Pfalz,56,Freelancer,1,13.8,Vodafone,53.92,False,24.85
+8203,09611,Land Hessen,59,Freelancer,1,13.2,O2,73.11,False,27.54
+56149,45697,Land Niedersachsen,45,Corporate Employee,0,45.7,Telekom,78.62,False,59.53
+30608,65050,Freie Hansestadt Bremen,51,Corporate Employee,0,7.9,Vodafone,41.8,False,40.4
+16972,63769,Land Niedersachsen,59,KMU Owner,1,7.8,Deutsche Glasfaser,79.85,False,59.53
+72531,50204,Land Brandenburg,60,Corporate Employee,0,23.1,Telekom,43.23,False,44.63
+27232,76932,Freie und Hansestadt Hamburg,68,Freelancer,1,15.2,Telekom,57.73,True,73.15
+53066,73022,Freistaat Bayern,26,Corporate Employee,0,13.2,Deutsche Glasfaser,33.13,True,31.18
+95551,08771,Land Nordrhein-Westfalen,51,Corporate Employee,0,41.9,O2,33.7,False,35.32
+79342,92851,Land Baden-Württemberg,29,Freelancer,1,6.6,Telekom,59.82,False,22.59
+66942,61468,Land Hessen,34,KMU Owner,1,17.7,Telekom,55.87,False,27.54
+19271,93068,Freie und Hansestadt Hamburg,55,Corporate Employee,0,11.2,Telekom,55.12,True,73.15
+79755,94883,Land Mecklenburg-Vorpommern,40,Freelancer,1,31.3,Telekom,78.74,True,45.63
+77731,07678,Land Brandenburg,68,Corporate Employee,0,35.3,Vodafone,41.58,False,44.63
+57718,63248,Land Nordrhein-Westfalen,64,Corporate Employee,0,24.9,Vodafone,65.42,True,35.32
+36007,77705,Freistaat Sachsen,66,Freelancer,1,15.6,Vodafone,24.13,False,29.09
+82054,19155,Land Baden-Württemberg,38,KMU Owner,1,14.2,Vodafone,23.28,False,22.59
+81141,81484,Freie und Hansestadt Hamburg,45,KMU Owner,1,19.9,Vodafone,70.37,True,73.15
+8126,13691,Land Nordrhein-Westfalen,36,KMU Owner,1,13.8,O2,48.3,True,35.32
+36383,22581,Land Brandenburg,24,Freelancer,1,14.2,Telekom,69.23,True,44.63
+70458,85049,Land Niedersachsen,27,KMU Owner,1,13.0,Telekom,41.11,True,59.53
+54965,71995,Land Hessen,68,Corporate Employee,0,15.0,Other,58.15,True,27.54
+73098,23616,Freistaat Bayern,47,Freelancer,1,15.5,Vodafone,21.63,False,31.18
+21266,80352,Land Mecklenburg-Vorpommern,53,Corporate Employee,0,8.5,Vodafone,54.11,True,45.63
+18116,72829,Land Brandenburg,60,Corporate Employee,0,3.9,O2,40.15,False,44.63
+37980,93279,Freie Hansestadt Bremen,38,Retired,0,12.2,Deutsche Glasfaser,23.03,True,40.4
+23506,55747,Freistaat Bayern,55,Freelancer,1,6.1,Vodafone,79.93,True,31.18
+90098,55889,Freie und Hansestadt Hamburg,20,Corporate Employee,0,23.6,Vodafone,63.8,True,73.15
+60645,12834,Land Rheinland-Pfalz,62,Corporate Employee,0,9.8,Telekom,77.99,True,24.85
+41545,82924,Land Niedersachsen,40,KMU Owner,1,8.4,Telekom,67.65,True,59.53
+44065,64700,Land Saarland,19,Retired,0,25.2,Deutsche Glasfaser,67.29,False,16.38
+68900,50536,Land Brandenburg,44,Freelancer,1,49.0,Vodafone,63.99,False,44.63
+704,43014,Land Mecklenburg-Vorpommern,56,Corporate Employee,0,15.7,Telekom,25.43,True,45.63
+7262,97520,Freie und Hansestadt Hamburg,36,Corporate Employee,0,15.1,O2,30.23,True,73.15
+1561,83311,Freistaat Sachsen,34,Corporate Employee,0,15.8,O2,40.28,False,29.09
+19028,23555,Land Nordrhein-Westfalen,37,Freelancer,1,14.8,Vodafone,35.65,True,35.32
+86054,98933,Land Brandenburg,49,Corporate Employee,0,2.9,Vodafone,71.81,False,44.63
+28578,04072,Land Sachsen-Anhalt,56,Corporate Employee,0,23.4,Vodafone,75.55,True,39.68
+17553,77470,Freistaat Sachsen,51,KMU Owner,1,15.6,O2,34.64,False,29.09
+485,62436,Land Saarland,68,Retired,0,9.7,Telekom,73.73,False,16.38
+34117,92215,Land Saarland,37,KMU Owner,1,11.9,Telekom,26.38,True,16.38
+72433,94067,Freie und Hansestadt Hamburg,32,KMU Owner,1,10.4,Telekom,49.46,True,73.15
+93967,62824,Land Rheinland-Pfalz,22,Corporate Employee,0,41.0,Vodafone,67.18,False,24.85
+9214,16119,Freie und Hansestadt Hamburg,24,Corporate Employee,0,17.2,Vodafone,25.31,True,73.15
+61345,65348,Freie und Hansestadt Hamburg,51,Freelancer,1,40.7,O2,21.82,True,73.15
+16928,84529,Land Brandenburg,67,KMU Owner,1,23.7,Deutsche Glasfaser,60.63,True,44.63
+65283,46862,Land Sachsen-Anhalt,68,Freelancer,1,11.7,Vodafone,27.54,False,39.68
+62204,61465,Land Niedersachsen,56,Corporate Employee,0,8.4,O2,63.34,True,59.53
+76996,61208,Freie Hansestadt Bremen,26,Freelancer,1,7.5,Other,68.01,False,40.4
+7978,88869,Land Rheinland-Pfalz,54,Freelancer,1,6.3,Telekom,50.36,False,24.85
+80542,78985,Freie Hansestadt Bremen,57,Freelancer,1,8.5,Vodafone,79.58,True,40.4
+59670,87293,Land Sachsen-Anhalt,30,KMU Owner,1,22.2,Vodafone,65.97,True,39.68
+79947,50157,Land Baden-Württemberg,64,Freelancer,1,19.2,Deutsche Glasfaser,71.11,False,22.59
+94162,14767,Freistaat Thüringen,30,Freelancer,1,19.7,Vodafone,74.91,False,15.77
+39434,25267,Land Niedersachsen,50,KMU Owner,1,48.8,Telekom,51.1,True,59.53
+68195,36575,Land Niedersachsen,24,Freelancer,1,5.6,O2,46.68,True,59.53
+92263,59330,Land Niedersachsen,48,Freelancer,1,5.1,Vodafone,39.37,True,59.53
+28500,55570,Land Brandenburg,67,KMU Owner,1,15.6,Telekom,47.3,False,44.63
+62635,97684,Freistaat Bayern,23,Corporate Employee,0,18.8,O2,26.84,False,31.18
+74503,50272,Land Niedersachsen,66,Corporate Employee,0,13.5,Vodafone,47.5,True,59.53
+40033,58347,Freie Hansestadt Bremen,64,Freelancer,1,16.4,Telekom,45.92,True,40.4
+44837,09131,Freistaat Sachsen,61,Corporate Employee,0,32.1,Telekom,28.73,True,29.09
+22579,81755,Freistaat Bayern,45,Corporate Employee,0,7.9,Vodafone,27.75,False,31.18
+14934,14956,Land Mecklenburg-Vorpommern,37,Corporate Employee,0,27.7,Telekom,22.96,True,45.63
+40704,38234,Freistaat Bayern,24,Freelancer,1,10.9,Vodafone,70.1,False,31.18
+92301,17614,Freistaat Bayern,43,Corporate Employee,0,7.0,Deutsche Glasfaser,71.49,False,31.18
+82877,13554,Freistaat Bayern,68,KMU Owner,1,39.5,Vodafone,79.89,False,31.18
+94810,70456,Land Baden-Württemberg,28,Corporate Employee,0,14.7,Other,78.54,False,22.59
+28063,87912,Land Nordrhein-Westfalen,44,Freelancer,1,25.8,Vodafone,35.31,False,35.32
+70814,50698,Land Rheinland-Pfalz,18,Retired,0,20.4,Telekom,41.74,False,24.85
+61122,64275,Land Brandenburg,35,Freelancer,1,33.9,Vodafone,67.06,False,44.63
+3848,79667,Land Niedersachsen,48,Corporate Employee,0,20.2,Vodafone,23.96,True,59.53
+21975,27235,Land Mecklenburg-Vorpommern,23,Retired,0,23.2,Telekom,23.43,False,45.63
+27893,21968,Land Berlin,22,Freelancer,1,25.5,Telekom,55.86,False,33.54
+47020,47704,Freie und Hansestadt Hamburg,69,Corporate Employee,0,31.8,Vodafone,54.37,False,73.15
+67440,27225,Land Saarland,55,Corporate Employee,0,16.3,Telekom,53.03,False,16.38
+92351,43660,Freie und Hansestadt Hamburg,55,Freelancer,1,14.5,Vodafone,25.48,True,73.15
+87899,66775,Freistaat Bayern,43,Corporate Employee,0,33.4,O2,31.37,False,31.18
+74674,65414,Freistaat Bayern,54,Freelancer,1,32.8,Telekom,54.37,True,31.18
+50014,92557,Land Brandenburg,31,Retired,0,19.6,Telekom,79.69,False,44.63
+15876,12858,Land Niedersachsen,30,Freelancer,1,25.7,O2,60.51,True,59.53
+90186,71272,Freie und Hansestadt Hamburg,24,Corporate Employee,0,38.1,Vodafone,38.35,True,73.15
+86008,23384,Freie und Hansestadt Hamburg,26,Corporate Employee,0,17.5,Telekom,68.77,True,73.15
+49443,97393,Land Niedersachsen,23,Corporate Employee,0,20.7,Vodafone,68.55,True,59.53
+41204,53095,Freistaat Sachsen,39,Corporate Employee,0,12.5,Telekom,77.48,False,29.09
+50026,57107,Land Rheinland-Pfalz,69,Retired,0,25.9,O2,66.47,True,24.85
+62633,95627,Land Mecklenburg-Vorpommern,41,Freelancer,1,27.6,Telekom,65.54,True,45.63
+86048,26654,Land Nordrhein-Westfalen,45,Freelancer,1,16.3,O2,35.2,True,35.32
+68317,55226,Land Sachsen-Anhalt,32,Freelancer,1,27.5,Telekom,46.88,False,39.68
+13445,29949,Land Baden-Württemberg,52,Freelancer,1,45.0,Other,74.37,True,22.59
+62597,79220,Land Niedersachsen,67,Corporate Employee,0,19.9,O2,26.21,True,59.53
+15069,46870,Land Rheinland-Pfalz,32,Freelancer,1,14.7,Telekom,52.74,False,24.85
+75513,49678,Freistaat Sachsen,53,Freelancer,1,3.3,O2,40.14,True,29.09
+62719,98017,Land Mecklenburg-Vorpommern,42,Corporate Employee,0,48.5,Telekom,45.41,False,45.63
+44464,50197,Land Mecklenburg-Vorpommern,41,Corporate Employee,0,12.3,Vodafone,60.63,False,45.63
+72007,85743,Land Rheinland-Pfalz,61,Corporate Employee,0,31.3,Telekom,47.33,False,24.85
+17641,91923,Land Hessen,33,Corporate Employee,0,14.3,Telekom,20.41,False,27.54
+32125,68502,Freie und Hansestadt Hamburg,31,Retired,0,8.6,Vodafone,34.62,False,73.15
+51228,40673,Freie und Hansestadt Hamburg,37,Freelancer,1,22.3,Vodafone,49.35,False,73.15
+99382,61601,Land Niedersachsen,31,KMU Owner,1,13.0,O2,76.17,True,59.53
+48613,03224,Freie und Hansestadt Hamburg,27,Retired,0,12.3,Telekom,20.22,False,73.15
+1456,52572,Land Hessen,67,Corporate Employee,0,65.1,O2,21.69,True,27.54
+97863,45199,Freistaat Sachsen,46,Freelancer,1,9.6,Deutsche Glasfaser,78.79,False,29.09
+27257,31132,Freie und Hansestadt Hamburg,67,Corporate Employee,0,15.5,Telekom,74.57,True,73.15
+38669,59551,Land Rheinland-Pfalz,37,Corporate Employee,0,27.4,Deutsche Glasfaser,50.17,False,24.85
+80520,14683,Freistaat Bayern,61,Corporate Employee,0,7.9,Telekom,23.71,False,31.18
+17951,84824,Land Nordrhein-Westfalen,50,Freelancer,1,13.9,Telekom,25.3,False,35.32
+57406,01255,Freistaat Bayern,43,KMU Owner,1,12.2,Vodafone,62.54,False,31.18
+55410,89574,Land Nordrhein-Westfalen,56,Retired,0,11.7,Telekom,27.22,True,35.32
+84499,72100,Freistaat Thüringen,61,Corporate Employee,0,27.1,Telekom,48.99,False,15.77
+16915,53771,Freie und Hansestadt Hamburg,59,Corporate Employee,0,10.4,Vodafone,24.24,True,73.15
+93772,43211,Freie und Hansestadt Hamburg,23,Corporate Employee,0,22.8,Telekom,58.1,True,73.15
+51903,37015,Land Nordrhein-Westfalen,41,KMU Owner,1,21.2,Vodafone,56.26,False,35.32
+54115,71077,Freie Hansestadt Bremen,56,Retired,0,36.1,Vodafone,21.73,True,40.4
+59278,32000,Land Hessen,61,Corporate Employee,0,10.6,Telekom,50.36,False,27.54
+31846,98482,Land Sachsen-Anhalt,64,Retired,0,11.0,O2,44.41,False,39.68
+59897,67554,Land Nordrhein-Westfalen,32,Freelancer,1,20.0,Vodafone,51.51,False,35.32
+57867,80191,Land Brandenburg,67,Freelancer,1,17.9,O2,46.56,True,44.63
+70863,93080,Land Brandenburg,36,Freelancer,1,16.0,Telekom,46.41,True,44.63
+48447,74699,Freie und Hansestadt Hamburg,22,Corporate Employee,0,18.2,O2,21.75,True,73.15
+7889,73080,Land Niedersachsen,60,KMU Owner,1,6.9,Telekom,79.74,False,59.53
+83533,06890,Land Rheinland-Pfalz,43,KMU Owner,1,15.9,Telekom,72.14,True,24.85
+54204,13388,Land Nordrhein-Westfalen,67,KMU Owner,1,24.1,Telekom,47.84,False,35.32
+886,86982,Land Mecklenburg-Vorpommern,46,Freelancer,1,43.4,Vodafone,49.21,False,45.63
+64935,66522,Land Niedersachsen,29,Corporate Employee,0,8.6,Telekom,57.38,True,59.53
+47424,93316,Freistaat Sachsen,58,Freelancer,1,17.7,Telekom,48.1,False,29.09
